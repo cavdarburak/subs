@@ -1,0 +1,4333 @@
+1
+00:00:00,000 --> 00:00:01,790
+<font face="Impress" size="74"></font>
+
+2
+00:00:01,000 --> 00:00:09,000
+<font face="Impress" size="74">{\an7}<font size="38"><font face="Glockenspiel">Çeviren: HakaiRyuu
+Redakte: Lexellures
+Encode: HakaiRyuu
+Karaoke: Nova
+
+HolySubs iyi seyirler diler.</font></font></font>
+
+3
+00:00:01,790 --> 00:00:04,610
+<font face="Impress" size="74">Şu anda bilgi eksikliğimiz var.</font>
+
+4
+00:00:05,100 --> 00:00:08,220
+<font face="Impress" size="74">Zihni olmadığını ele almalıyız.</font>
+
+5
+00:00:08,530 --> 00:00:11,710
+<font face="Impress" size="74">Her türlü kaba kuvvetten kullanmaktan
+başka çare kalmayacak gibi.</font>
+
+6
+00:00:12,790 --> 00:00:14,400
+<font face="Impress" size="74">Yapabilir misin ki?</font>
+
+7
+00:00:14,400 --> 00:00:16,380
+<font face="Impress" size="74">Bilmem ki.</font>
+
+8
+00:00:20,770 --> 00:00:23,000
+<font face="Impress" size="74">O zaman...</font>
+
+9
+00:00:23,930 --> 00:00:28,500
+<font face="Impress" size="74">Frieren-sama'yı öldürebilirim.</font>
+
+10
+00:00:30,560 --> 00:00:31,420
+<font face="Impress" size="74">Öyle mi?</font>
+
+11
+00:00:32,070 --> 00:00:32,860
+<font face="Impress" size="74">Evet.</font>
+
+12
+00:00:41,730 --> 00:00:42,920
+<font face="Impress" size="74">Peki, o zaman...</font>
+
+13
+00:00:42,920 --> 00:00:45,010
+<font face="Impress" size="74">Strateji bulalım.</font>
+
+14
+00:00:53,890 --> 00:00:54,090
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">A</font></font>
+
+15
+00:00:53,920 --> 00:00:54,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+16
+00:00:53,920 --> 00:00:54,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+17
+00:00:53,950 --> 00:00:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+18
+00:00:53,950 --> 00:00:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+19
+00:00:54,010 --> 00:00:55,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+20
+00:00:54,010 --> 00:00:55,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+21
+00:00:54,040 --> 00:00:55,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+22
+00:00:54,040 --> 00:00:55,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+23
+00:00:54,070 --> 00:00:55,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">z</font></font>
+
+24
+00:00:54,070 --> 00:00:55,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+25
+00:00:54,090 --> 00:00:57,670
+<font face="Garamond Premr Pro Capt" size="72">Sen ki rüzgar misali</font>
+
+26
+00:00:54,090 --> 00:00:54,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">A</font></font></font>
+
+27
+00:00:54,130 --> 00:00:56,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+28
+00:00:54,130 --> 00:00:56,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+29
+00:00:54,160 --> 00:00:56,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+30
+00:00:54,160 --> 00:00:56,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+31
+00:00:54,190 --> 00:00:56,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+32
+00:00:54,220 --> 00:00:57,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+33
+00:00:54,220 --> 00:00:57,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+34
+00:00:54,400 --> 00:00:57,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">A</font></font>
+
+35
+00:00:54,400 --> 00:00:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+36
+00:00:54,400 --> 00:00:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+37
+00:00:54,710 --> 00:00:57,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+38
+00:00:54,710 --> 00:00:57,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+39
+00:00:54,710 --> 00:00:55,040
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+40
+00:00:54,710 --> 00:00:55,040
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+41
+00:00:55,040 --> 00:00:57,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+42
+00:00:55,040 --> 00:00:57,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+43
+00:00:55,290 --> 00:00:55,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+44
+00:00:55,290 --> 00:00:55,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+45
+00:00:55,570 --> 00:00:57,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+46
+00:00:55,570 --> 00:00:57,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+47
+00:00:55,570 --> 00:00:55,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+48
+00:00:55,570 --> 00:00:55,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+49
+00:00:55,800 --> 00:00:58,020
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+50
+00:00:55,800 --> 00:00:58,020
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+51
+00:00:55,800 --> 00:00:56,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">z</font></font></font>
+
+52
+00:00:55,800 --> 00:00:56,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+53
+00:00:56,170 --> 00:00:58,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">z</font></font>
+
+54
+00:00:56,170 --> 00:00:58,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+55
+00:00:56,450 --> 00:00:56,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+56
+00:00:56,450 --> 00:00:56,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+57
+00:00:56,710 --> 00:00:58,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+58
+00:00:56,710 --> 00:00:58,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+59
+00:00:56,710 --> 00:00:56,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+60
+00:00:56,710 --> 00:00:56,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+61
+00:00:56,910 --> 00:00:58,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+62
+00:00:56,910 --> 00:00:58,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+63
+00:00:56,910 --> 00:00:57,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+64
+00:00:57,340 --> 00:00:58,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+65
+00:00:57,340 --> 00:00:57,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+66
+00:00:57,340 --> 00:00:57,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+67
+00:00:57,670 --> 00:00:58,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+68
+00:00:57,670 --> 00:00:58,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+69
+00:00:57,720 --> 00:00:57,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">M</font></font>
+
+70
+00:00:57,720 --> 00:00:57,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+71
+00:00:57,750 --> 00:00:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+72
+00:00:57,750 --> 00:00:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+73
+00:00:57,780 --> 00:00:58,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+74
+00:00:57,780 --> 00:00:58,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+75
+00:00:57,810 --> 00:00:59,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">j</font></font>
+
+76
+00:00:57,810 --> 00:00:59,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+77
+00:00:57,840 --> 00:00:59,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+78
+00:00:57,840 --> 00:00:59,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+79
+00:00:57,900 --> 00:01:00,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+80
+00:00:57,900 --> 00:01:00,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+81
+00:00:57,920 --> 00:01:02,030
+<font face="Garamond Premr Pro Capt" size="72">Tan ağarırken kapat gözlerini</font>
+
+82
+00:00:57,920 --> 00:00:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">M</font></font></font>
+
+83
+00:00:57,920 --> 00:00:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+84
+00:00:57,930 --> 00:01:00,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+85
+00:00:57,930 --> 00:01:00,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+86
+00:00:57,930 --> 00:01:00,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+87
+00:00:57,960 --> 00:01:01,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">g</font></font>
+
+88
+00:00:57,960 --> 00:01:01,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+89
+00:00:57,990 --> 00:01:01,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+90
+00:00:57,990 --> 00:01:01,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+91
+00:00:58,520 --> 00:01:02,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">M</font></font>
+
+92
+00:00:58,520 --> 00:01:02,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+93
+00:00:58,520 --> 00:00:58,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+94
+00:00:58,520 --> 00:00:58,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+95
+00:00:58,730 --> 00:01:02,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+96
+00:00:58,730 --> 00:01:02,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+97
+00:00:58,730 --> 00:00:59,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+98
+00:00:58,730 --> 00:00:59,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+99
+00:00:59,050 --> 00:01:02,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+100
+00:00:59,050 --> 00:01:02,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+101
+00:00:59,050 --> 00:00:59,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">j</font></font></font>
+
+102
+00:00:59,050 --> 00:00:59,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+103
+00:00:59,380 --> 00:01:02,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">j</font></font>
+
+104
+00:00:59,380 --> 00:01:02,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+105
+00:00:59,380 --> 00:00:59,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+106
+00:00:59,380 --> 00:00:59,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+107
+00:00:59,750 --> 00:01:02,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+108
+00:00:59,750 --> 00:01:02,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+109
+00:01:00,000 --> 00:01:00,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+110
+00:01:00,000 --> 00:01:00,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+111
+00:01:00,300 --> 00:01:02,410
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+112
+00:01:00,300 --> 00:01:02,410
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+113
+00:01:00,300 --> 00:01:01,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+114
+00:01:00,300 --> 00:01:01,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+115
+00:01:00,300 --> 00:01:01,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+116
+00:01:01,150 --> 00:01:02,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+117
+00:01:01,150 --> 00:01:02,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+118
+00:01:01,150 --> 00:01:02,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+119
+00:01:01,150 --> 00:01:01,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">g</font></font></font>
+
+120
+00:01:01,150 --> 00:01:01,440
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+121
+00:01:01,440 --> 00:01:02,470
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">g</font></font>
+
+122
+00:01:01,440 --> 00:01:02,470
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+123
+00:01:01,440 --> 00:01:02,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+124
+00:01:01,440 --> 00:01:02,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+125
+00:01:02,030 --> 00:01:02,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+126
+00:01:02,030 --> 00:01:02,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+127
+00:01:02,250 --> 00:01:02,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">N</font></font>
+
+128
+00:01:02,250 --> 00:01:02,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+129
+00:01:02,280 --> 00:01:03,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+130
+00:01:02,280 --> 00:01:03,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+131
+00:01:02,310 --> 00:01:03,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+132
+00:01:02,310 --> 00:01:03,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+133
+00:01:02,340 --> 00:01:03,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+134
+00:01:02,370 --> 00:01:04,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+135
+00:01:02,370 --> 00:01:04,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+136
+00:01:02,370 --> 00:01:04,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+137
+00:01:02,400 --> 00:01:04,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+138
+00:01:02,400 --> 00:01:04,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+139
+00:01:02,430 --> 00:01:04,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+140
+00:01:02,450 --> 00:01:08,130
+<font face="Garamond Premr Pro Capt" size="72">Düşünüp dururum aklından geçenleri</font>
+
+141
+00:01:02,450 --> 00:01:03,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">N</font></font></font>
+
+142
+00:01:02,450 --> 00:01:03,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+143
+00:01:02,460 --> 00:01:05,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+144
+00:01:02,460 --> 00:01:05,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+145
+00:01:02,460 --> 00:01:05,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+146
+00:01:02,520 --> 00:01:05,880
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+147
+00:01:02,520 --> 00:01:05,880
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+148
+00:01:02,550 --> 00:01:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+149
+00:01:02,550 --> 00:01:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+150
+00:01:02,580 --> 00:01:06,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+151
+00:01:02,640 --> 00:01:07,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+152
+00:01:02,640 --> 00:01:07,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+153
+00:01:03,210 --> 00:01:08,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">N</font></font>
+
+154
+00:01:03,210 --> 00:01:08,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+155
+00:01:03,210 --> 00:01:03,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+156
+00:01:03,210 --> 00:01:03,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+157
+00:01:03,500 --> 00:01:08,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+158
+00:01:03,500 --> 00:01:08,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+159
+00:01:03,500 --> 00:01:03,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+160
+00:01:03,500 --> 00:01:03,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+161
+00:01:03,810 --> 00:01:08,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+162
+00:01:03,810 --> 00:01:08,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+163
+00:01:03,810 --> 00:01:04,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+164
+00:01:04,000 --> 00:01:08,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+165
+00:01:04,000 --> 00:01:04,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+166
+00:01:04,000 --> 00:01:04,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+167
+00:01:04,000 --> 00:01:04,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+168
+00:01:04,700 --> 00:01:08,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+169
+00:01:04,700 --> 00:01:08,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+170
+00:01:04,700 --> 00:01:08,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+171
+00:01:04,700 --> 00:01:04,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+172
+00:01:04,700 --> 00:01:04,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+173
+00:01:04,980 --> 00:01:08,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+174
+00:01:04,980 --> 00:01:08,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+175
+00:01:04,980 --> 00:01:05,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+176
+00:01:05,280 --> 00:01:08,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+177
+00:01:05,280 --> 00:01:05,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+178
+00:01:05,280 --> 00:01:05,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+179
+00:01:05,280 --> 00:01:05,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+180
+00:01:05,780 --> 00:01:08,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+181
+00:01:05,780 --> 00:01:08,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+182
+00:01:05,780 --> 00:01:08,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+183
+00:01:05,880 --> 00:01:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+184
+00:01:05,880 --> 00:01:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+185
+00:01:06,160 --> 00:01:08,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+186
+00:01:06,160 --> 00:01:08,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+187
+00:01:06,160 --> 00:01:06,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+188
+00:01:06,160 --> 00:01:06,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+189
+00:01:06,320 --> 00:01:08,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+190
+00:01:06,320 --> 00:01:08,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+191
+00:01:06,320 --> 00:01:06,740
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+192
+00:01:06,740 --> 00:01:08,660
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+193
+00:01:07,350 --> 00:01:08,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+194
+00:01:07,350 --> 00:01:08,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+195
+00:01:08,130 --> 00:01:12,730
+<font face="Garamond Premr Pro Capt" size="72"></font>
+
+196
+00:01:08,130 --> 00:01:08,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+197
+00:01:08,130 --> 00:01:08,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+198
+00:01:08,580 --> 00:01:13,630
+<font size="24"><b>{\an8}<font size="105"><font face="Georgia"><font color="#65feff">HolySubs</font></font></font></b></font>
+
+199
+00:01:12,550 --> 00:01:12,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">M</font></font>
+
+200
+00:01:12,550 --> 00:01:12,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+201
+00:01:12,580 --> 00:01:13,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">b</font></font>
+
+202
+00:01:12,580 --> 00:01:13,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+203
+00:01:12,610 --> 00:01:13,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+204
+00:01:12,610 --> 00:01:13,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+205
+00:01:12,670 --> 00:01:14,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+206
+00:01:12,670 --> 00:01:14,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+207
+00:01:12,700 --> 00:01:14,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+208
+00:01:12,700 --> 00:01:14,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+209
+00:01:12,730 --> 00:01:14,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+210
+00:01:12,730 --> 00:01:14,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+211
+00:01:12,750 --> 00:01:16,530
+<font face="Garamond Premr Pro Capt" size="72">Göz kapakların aralanırken senin</font>
+
+212
+00:01:12,750 --> 00:01:13,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">M</font></font></font>
+
+213
+00:01:12,750 --> 00:01:13,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+214
+00:01:12,790 --> 00:01:15,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+215
+00:01:12,850 --> 00:01:15,590
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+216
+00:01:12,850 --> 00:01:15,590
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+217
+00:01:12,880 --> 00:01:15,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+218
+00:01:12,940 --> 00:01:16,180
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+219
+00:01:12,940 --> 00:01:16,180
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+220
+00:01:13,240 --> 00:01:16,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">M</font></font>
+
+221
+00:01:13,240 --> 00:01:16,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+222
+00:01:13,240 --> 00:01:13,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">b</font></font></font>
+
+223
+00:01:13,240 --> 00:01:13,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+224
+00:01:13,510 --> 00:01:16,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">b</font></font>
+
+225
+00:01:13,510 --> 00:01:16,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+226
+00:01:13,510 --> 00:01:13,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+227
+00:01:13,510 --> 00:01:13,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+228
+00:01:13,870 --> 00:01:16,790
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+229
+00:01:13,870 --> 00:01:16,790
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+230
+00:01:14,120 --> 00:01:14,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+231
+00:01:14,120 --> 00:01:14,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+232
+00:01:14,360 --> 00:01:16,850
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+233
+00:01:14,360 --> 00:01:16,850
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+234
+00:01:14,360 --> 00:01:14,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+235
+00:01:14,360 --> 00:01:14,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+236
+00:01:14,700 --> 00:01:16,880
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+237
+00:01:14,700 --> 00:01:16,880
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+238
+00:01:14,700 --> 00:01:15,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+239
+00:01:14,700 --> 00:01:15,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+240
+00:01:15,130 --> 00:01:16,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+241
+00:01:15,130 --> 00:01:16,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+242
+00:01:15,310 --> 00:01:15,490
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+243
+00:01:15,490 --> 00:01:16,970
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+244
+00:01:15,590 --> 00:01:15,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+245
+00:01:15,590 --> 00:01:15,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+246
+00:01:15,800 --> 00:01:17,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+247
+00:01:15,800 --> 00:01:17,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+248
+00:01:15,800 --> 00:01:16,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+249
+00:01:16,050 --> 00:01:17,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+250
+00:01:16,180 --> 00:01:16,530
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+251
+00:01:16,180 --> 00:01:16,530
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+252
+00:01:16,530 --> 00:01:17,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+253
+00:01:16,530 --> 00:01:17,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+254
+00:01:16,550 --> 00:01:16,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">A</font></font>
+
+255
+00:01:16,580 --> 00:01:17,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+256
+00:01:16,580 --> 00:01:17,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+257
+00:01:16,610 --> 00:01:17,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+258
+00:01:16,610 --> 00:01:17,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+259
+00:01:16,640 --> 00:01:17,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+260
+00:01:16,640 --> 00:01:17,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+261
+00:01:16,670 --> 00:01:18,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+262
+00:01:16,670 --> 00:01:18,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+263
+00:01:16,730 --> 00:01:18,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+264
+00:01:16,730 --> 00:01:18,800
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+265
+00:01:16,750 --> 00:01:20,870
+<font face="Garamond Premr Pro Capt" size="72">Meğer cam gibiymiş gözlerin</font>
+
+266
+00:01:16,750 --> 00:01:17,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">A</font></font></font>
+
+267
+00:01:16,790 --> 00:01:19,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">b</font></font>
+
+268
+00:01:16,790 --> 00:01:19,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+269
+00:01:16,820 --> 00:01:19,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+270
+00:01:16,880 --> 00:01:20,010
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+271
+00:01:16,880 --> 00:01:20,010
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+272
+00:01:16,910 --> 00:01:20,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+273
+00:01:16,910 --> 00:01:20,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+274
+00:01:17,340 --> 00:01:21,070
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">A</font></font>
+
+275
+00:01:17,340 --> 00:01:17,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+276
+00:01:17,340 --> 00:01:17,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+277
+00:01:17,610 --> 00:01:21,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+278
+00:01:17,610 --> 00:01:21,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+279
+00:01:17,610 --> 00:01:17,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+280
+00:01:17,610 --> 00:01:17,930
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+281
+00:01:17,930 --> 00:01:21,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+282
+00:01:17,930 --> 00:01:21,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+283
+00:01:17,930 --> 00:01:18,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+284
+00:01:17,930 --> 00:01:18,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+285
+00:01:18,200 --> 00:01:21,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+286
+00:01:18,200 --> 00:01:21,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+287
+00:01:18,200 --> 00:01:18,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+288
+00:01:18,200 --> 00:01:18,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+289
+00:01:18,520 --> 00:01:21,190
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+290
+00:01:18,520 --> 00:01:21,190
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+291
+00:01:18,800 --> 00:01:19,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+292
+00:01:18,800 --> 00:01:19,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+293
+00:01:19,060 --> 00:01:21,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+294
+00:01:19,060 --> 00:01:21,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+295
+00:01:19,120 --> 00:01:19,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">b</font></font></font>
+
+296
+00:01:19,120 --> 00:01:19,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+297
+00:01:19,390 --> 00:01:21,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">b</font></font>
+
+298
+00:01:19,390 --> 00:01:21,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+299
+00:01:19,390 --> 00:01:19,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+300
+00:01:19,700 --> 00:01:21,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+301
+00:01:20,010 --> 00:01:20,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+302
+00:01:20,010 --> 00:01:20,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+303
+00:01:20,270 --> 00:01:21,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+304
+00:01:20,270 --> 00:01:21,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+305
+00:01:20,270 --> 00:01:20,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+306
+00:01:20,270 --> 00:01:20,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+307
+00:01:20,870 --> 00:01:21,430
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+308
+00:01:20,870 --> 00:01:21,430
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+309
+00:01:21,110 --> 00:01:21,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">S</font></font>
+
+310
+00:01:21,110 --> 00:01:21,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+311
+00:01:21,170 --> 00:01:22,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+312
+00:01:21,170 --> 00:01:22,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+313
+00:01:21,200 --> 00:01:22,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+314
+00:01:21,200 --> 00:01:22,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+315
+00:01:21,200 --> 00:01:22,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+316
+00:01:21,260 --> 00:01:22,650
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+317
+00:01:21,260 --> 00:01:22,650
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+318
+00:01:21,290 --> 00:01:22,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+319
+00:01:21,290 --> 00:01:22,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+320
+00:01:21,310 --> 00:01:27,920
+<font face="Garamond Premr Pro Capt" size="72">Bir de mis gibi kokar göz bebeklerin</font>
+
+321
+00:01:21,310 --> 00:01:21,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">S</font></font></font>
+
+322
+00:01:21,310 --> 00:01:21,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+323
+00:01:21,350 --> 00:01:23,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+324
+00:01:21,350 --> 00:01:23,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+325
+00:01:21,380 --> 00:01:23,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+326
+00:01:21,380 --> 00:01:23,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+327
+00:01:21,410 --> 00:01:24,090
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+328
+00:01:21,410 --> 00:01:24,090
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+329
+00:01:21,470 --> 00:01:24,740
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+330
+00:01:21,470 --> 00:01:24,740
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+331
+00:01:21,500 --> 00:01:25,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+332
+00:01:21,530 --> 00:01:25,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+333
+00:01:21,590 --> 00:01:26,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">g</font></font>
+
+334
+00:01:21,590 --> 00:01:26,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+335
+00:01:21,620 --> 00:01:26,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+336
+00:01:21,620 --> 00:01:26,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+337
+00:01:21,620 --> 00:01:26,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+338
+00:01:21,680 --> 00:01:27,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+339
+00:01:21,680 --> 00:01:27,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+340
+00:01:21,920 --> 00:01:28,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">S</font></font>
+
+341
+00:01:21,920 --> 00:01:28,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+342
+00:01:22,030 --> 00:01:22,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+343
+00:01:22,030 --> 00:01:22,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+344
+00:01:22,240 --> 00:01:28,180
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+345
+00:01:22,240 --> 00:01:28,180
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+346
+00:01:22,240 --> 00:01:22,620
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+347
+00:01:22,240 --> 00:01:22,620
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+348
+00:01:22,240 --> 00:01:22,620
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+349
+00:01:22,620 --> 00:01:28,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+350
+00:01:22,620 --> 00:01:28,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+351
+00:01:22,620 --> 00:01:28,210
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+352
+00:01:22,650 --> 00:01:22,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+353
+00:01:22,650 --> 00:01:22,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+354
+00:01:22,910 --> 00:01:28,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+355
+00:01:22,910 --> 00:01:28,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+356
+00:01:22,910 --> 00:01:23,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+357
+00:01:22,910 --> 00:01:23,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+358
+00:01:23,220 --> 00:01:28,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+359
+00:01:23,220 --> 00:01:28,300
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+360
+00:01:23,500 --> 00:01:23,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+361
+00:01:23,500 --> 00:01:23,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+362
+00:01:23,810 --> 00:01:28,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+363
+00:01:23,810 --> 00:01:28,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+364
+00:01:23,810 --> 00:01:24,090
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+365
+00:01:23,810 --> 00:01:24,090
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+366
+00:01:24,090 --> 00:01:28,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+367
+00:01:24,090 --> 00:01:28,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+368
+00:01:24,090 --> 00:01:24,410
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+369
+00:01:24,090 --> 00:01:24,410
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+370
+00:01:24,410 --> 00:01:28,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+371
+00:01:24,410 --> 00:01:28,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+372
+00:01:24,740 --> 00:01:25,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+373
+00:01:24,740 --> 00:01:25,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+374
+00:01:25,000 --> 00:01:28,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+375
+00:01:25,000 --> 00:01:28,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+376
+00:01:25,000 --> 00:01:25,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+377
+00:01:25,200 --> 00:01:28,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+378
+00:01:25,200 --> 00:01:25,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+379
+00:01:25,570 --> 00:01:28,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+380
+00:01:26,750 --> 00:01:26,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">g</font></font></font>
+
+381
+00:01:26,750 --> 00:01:26,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+382
+00:01:26,990 --> 00:01:28,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">g</font></font>
+
+383
+00:01:26,990 --> 00:01:28,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+384
+00:01:26,990 --> 00:01:27,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+385
+00:01:26,990 --> 00:01:27,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+386
+00:01:26,990 --> 00:01:27,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+387
+00:01:27,270 --> 00:01:28,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+388
+00:01:27,270 --> 00:01:28,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+389
+00:01:27,270 --> 00:01:28,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+390
+00:01:27,360 --> 00:01:27,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+391
+00:01:27,360 --> 00:01:27,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+392
+00:01:27,920 --> 00:01:30,920
+<font face="Garamond Premr Pro Capt" size="72"></font>
+
+393
+00:01:27,920 --> 00:01:28,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+394
+00:01:27,920 --> 00:01:28,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+395
+00:01:33,850 --> 00:01:34,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">H</font></font>
+
+396
+00:01:33,850 --> 00:01:34,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+397
+00:01:33,880 --> 00:01:34,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+398
+00:01:33,880 --> 00:01:34,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+399
+00:01:33,940 --> 00:01:35,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+400
+00:01:33,940 --> 00:01:35,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+401
+00:01:33,970 --> 00:01:35,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+402
+00:01:33,970 --> 00:01:35,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+403
+00:01:34,000 --> 00:01:36,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+404
+00:01:34,000 --> 00:01:36,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+405
+00:01:34,000 --> 00:01:36,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">,</font></font>
+
+406
+00:01:34,030 --> 00:01:36,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+407
+00:01:34,030 --> 00:01:36,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+408
+00:01:34,050 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72">Ey çiçekler, baş gösterin, yeşerin</font>
+
+409
+00:01:34,050 --> 00:01:34,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">H</font></font></font>
+
+410
+00:01:34,050 --> 00:01:34,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+411
+00:01:34,060 --> 00:01:36,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+412
+00:01:34,060 --> 00:01:36,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+413
+00:01:34,090 --> 00:01:37,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+414
+00:01:34,090 --> 00:01:37,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+415
+00:01:34,120 --> 00:01:37,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+416
+00:01:34,120 --> 00:01:37,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+417
+00:01:34,150 --> 00:01:37,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+418
+00:01:34,150 --> 00:01:37,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+419
+00:01:34,580 --> 00:01:39,490
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">H</font></font>
+
+420
+00:01:34,580 --> 00:01:39,490
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+421
+00:01:34,580 --> 00:01:35,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+422
+00:01:34,580 --> 00:01:35,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+423
+00:01:35,170 --> 00:01:39,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+424
+00:01:35,170 --> 00:01:39,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+425
+00:01:35,280 --> 00:01:35,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+426
+00:01:35,280 --> 00:01:35,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+427
+00:01:35,820 --> 00:01:39,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+428
+00:01:35,820 --> 00:01:39,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+429
+00:01:35,820 --> 00:01:36,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+430
+00:01:35,820 --> 00:01:36,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+431
+00:01:36,330 --> 00:01:39,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+432
+00:01:36,330 --> 00:01:39,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+433
+00:01:36,330 --> 00:01:36,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+434
+00:01:36,330 --> 00:01:36,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+435
+00:01:36,330 --> 00:01:36,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">,</font></font></font>
+
+436
+00:01:36,690 --> 00:01:39,640
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+437
+00:01:36,690 --> 00:01:39,640
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+438
+00:01:36,690 --> 00:01:39,640
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">,</font></font>
+
+439
+00:01:36,690 --> 00:01:36,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+440
+00:01:36,690 --> 00:01:36,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+441
+00:01:36,990 --> 00:01:39,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+442
+00:01:36,990 --> 00:01:39,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+443
+00:01:36,990 --> 00:01:37,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+444
+00:01:36,990 --> 00:01:37,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+445
+00:01:37,340 --> 00:01:39,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+446
+00:01:37,340 --> 00:01:39,700
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+447
+00:01:37,340 --> 00:01:37,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+448
+00:01:37,340 --> 00:01:37,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+449
+00:01:37,510 --> 00:01:39,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+450
+00:01:37,510 --> 00:01:39,730
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+451
+00:01:37,510 --> 00:01:37,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+452
+00:01:37,510 --> 00:01:37,910
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+453
+00:01:37,910 --> 00:01:39,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+454
+00:01:37,910 --> 00:01:39,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+455
+00:01:37,910 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+456
+00:01:37,910 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+457
+00:01:39,090 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">S</font></font>
+
+458
+00:01:39,090 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+459
+00:01:39,090 --> 00:01:39,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+460
+00:01:39,150 --> 00:01:39,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+461
+00:01:39,150 --> 00:01:39,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+462
+00:01:39,180 --> 00:01:40,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+463
+00:01:39,180 --> 00:01:40,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+464
+00:01:39,210 --> 00:01:40,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+465
+00:01:39,210 --> 00:01:40,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+466
+00:01:39,240 --> 00:01:41,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+467
+00:01:39,240 --> 00:01:41,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+468
+00:01:39,270 --> 00:01:41,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+469
+00:01:39,270 --> 00:01:41,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+470
+00:01:39,290 --> 00:01:43,220
+<font face="Garamond Premr Pro Capt" size="72">Berrak gözüksün güzelliğiniz</font>
+
+471
+00:01:39,290 --> 00:01:39,790
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+472
+00:01:39,290 --> 00:01:39,790
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+473
+00:01:39,290 --> 00:01:39,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">S</font></font></font>
+
+474
+00:01:39,290 --> 00:01:39,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+475
+00:01:39,290 --> 00:01:39,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+476
+00:01:39,300 --> 00:01:42,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+477
+00:01:39,780 --> 00:01:43,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">S</font></font>
+
+478
+00:01:39,780 --> 00:01:43,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+479
+00:01:39,780 --> 00:01:43,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+480
+00:01:39,980 --> 00:01:40,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+481
+00:01:39,980 --> 00:01:40,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+482
+00:01:40,280 --> 00:01:43,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+483
+00:01:40,280 --> 00:01:43,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+484
+00:01:40,280 --> 00:01:40,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+485
+00:01:40,280 --> 00:01:40,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+486
+00:01:40,860 --> 00:01:43,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+487
+00:01:40,860 --> 00:01:43,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+488
+00:01:40,860 --> 00:01:41,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+489
+00:01:40,860 --> 00:01:41,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+490
+00:01:41,140 --> 00:01:43,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+491
+00:01:41,140 --> 00:01:43,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+492
+00:01:41,140 --> 00:01:41,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+493
+00:01:41,140 --> 00:01:41,310
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+494
+00:01:41,310 --> 00:01:43,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+495
+00:01:41,310 --> 00:01:43,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+496
+00:01:41,310 --> 00:01:42,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+497
+00:01:41,310 --> 00:01:42,120
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+498
+00:01:42,120 --> 00:01:43,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+499
+00:01:42,120 --> 00:01:43,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+500
+00:01:42,120 --> 00:01:43,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+501
+00:01:43,220 --> 00:01:43,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+502
+00:01:43,260 --> 00:01:43,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">F</font></font>
+
+503
+00:01:43,260 --> 00:01:43,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+504
+00:01:43,290 --> 00:01:44,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+505
+00:01:43,290 --> 00:01:44,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">i</font></font>
+
+506
+00:01:43,350 --> 00:01:44,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+507
+00:01:43,350 --> 00:01:44,610
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+508
+00:01:43,380 --> 00:01:45,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+509
+00:01:43,380 --> 00:01:45,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+510
+00:01:43,440 --> 00:01:45,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">b</font></font>
+
+511
+00:01:43,440 --> 00:01:45,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+512
+00:01:43,460 --> 00:01:47,880
+<font face="Garamond Premr Pro Capt" size="72">Dursa da yağmur</font>
+
+513
+00:01:43,460 --> 00:01:44,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">F</font></font></font>
+
+514
+00:01:43,460 --> 00:01:44,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+515
+00:01:43,470 --> 00:01:46,070
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+516
+00:01:43,500 --> 00:01:46,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+517
+00:01:43,500 --> 00:01:46,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+518
+00:01:43,530 --> 00:01:46,770
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+519
+00:01:43,530 --> 00:01:46,770
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+520
+00:01:43,560 --> 00:01:46,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+521
+00:01:43,560 --> 00:01:46,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+522
+00:01:43,590 --> 00:01:47,370
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+523
+00:01:44,100 --> 00:01:48,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">F</font></font>
+
+524
+00:01:44,100 --> 00:01:48,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+525
+00:01:44,100 --> 00:01:44,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+526
+00:01:44,100 --> 00:01:44,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">i</font></font></font>
+
+527
+00:01:44,500 --> 00:01:48,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+528
+00:01:44,500 --> 00:01:48,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">i</font></font>
+
+529
+00:01:44,610 --> 00:01:45,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+530
+00:01:44,610 --> 00:01:45,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+531
+00:01:45,270 --> 00:01:48,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+532
+00:01:45,270 --> 00:01:48,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+533
+00:01:45,270 --> 00:01:45,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+534
+00:01:45,270 --> 00:01:45,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+535
+00:01:45,580 --> 00:01:48,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+536
+00:01:45,580 --> 00:01:48,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+537
+00:01:45,870 --> 00:01:46,070
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">b</font></font></font>
+
+538
+00:01:45,870 --> 00:01:46,070
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+539
+00:01:46,070 --> 00:01:48,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">b</font></font>
+
+540
+00:01:46,070 --> 00:01:48,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+541
+00:01:46,070 --> 00:01:46,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+542
+00:01:46,340 --> 00:01:48,290
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+543
+00:01:46,340 --> 00:01:46,770
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+544
+00:01:46,340 --> 00:01:46,770
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+545
+00:01:46,770 --> 00:01:48,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+546
+00:01:46,770 --> 00:01:48,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+547
+00:01:46,770 --> 00:01:46,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+548
+00:01:46,770 --> 00:01:46,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+549
+00:01:46,900 --> 00:01:48,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+550
+00:01:46,900 --> 00:01:48,350
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+551
+00:01:46,900 --> 00:01:47,370
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+552
+00:01:46,900 --> 00:01:47,370
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+553
+00:01:47,370 --> 00:01:48,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+554
+00:01:47,370 --> 00:01:48,380
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+555
+00:01:47,370 --> 00:01:47,880
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+556
+00:01:47,740 --> 00:01:47,940
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">A</font></font>
+
+557
+00:01:47,770 --> 00:01:48,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+558
+00:01:47,770 --> 00:01:48,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+559
+00:01:47,800 --> 00:01:48,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+560
+00:01:47,800 --> 00:01:48,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+561
+00:01:47,830 --> 00:01:49,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+562
+00:01:47,830 --> 00:01:49,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+563
+00:01:47,860 --> 00:01:49,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+564
+00:01:47,860 --> 00:01:49,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+565
+00:01:47,880 --> 00:01:52,400
+<font face="Garamond Premr Pro Capt" size="72">Mis gibi süsler durur</font>
+
+566
+00:01:47,880 --> 00:01:48,410
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+567
+00:01:47,890 --> 00:01:49,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">z</font></font>
+
+568
+00:01:47,890 --> 00:01:49,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+569
+00:01:47,920 --> 00:01:50,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+570
+00:01:47,920 --> 00:01:50,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+571
+00:01:47,940 --> 00:01:48,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">A</font></font></font>
+
+572
+00:01:47,950 --> 00:01:50,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+573
+00:01:47,950 --> 00:01:50,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+574
+00:01:47,980 --> 00:01:51,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+575
+00:01:47,980 --> 00:01:51,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+576
+00:01:48,230 --> 00:01:52,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">A</font></font>
+
+577
+00:01:48,230 --> 00:01:48,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+578
+00:01:48,230 --> 00:01:48,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+579
+00:01:48,520 --> 00:01:52,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+580
+00:01:48,520 --> 00:01:52,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+581
+00:01:48,520 --> 00:01:49,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+582
+00:01:48,520 --> 00:01:49,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+583
+00:01:49,110 --> 00:01:52,660
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+584
+00:01:49,110 --> 00:01:52,660
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+585
+00:01:49,110 --> 00:01:49,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+586
+00:01:49,110 --> 00:01:49,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+587
+00:01:49,400 --> 00:01:52,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+588
+00:01:49,400 --> 00:01:52,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+589
+00:01:49,400 --> 00:01:49,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+590
+00:01:49,400 --> 00:01:49,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+591
+00:01:49,690 --> 00:01:52,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+592
+00:01:49,690 --> 00:01:52,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+593
+00:01:49,690 --> 00:01:50,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">z</font></font></font>
+
+594
+00:01:49,690 --> 00:01:50,320
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+595
+00:01:50,320 --> 00:01:52,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">z</font></font>
+
+596
+00:01:50,320 --> 00:01:52,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+597
+00:01:50,320 --> 00:01:50,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+598
+00:01:50,320 --> 00:01:50,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+599
+00:01:50,570 --> 00:01:52,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+600
+00:01:50,570 --> 00:01:52,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+601
+00:01:50,570 --> 00:01:51,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+602
+00:01:50,570 --> 00:01:51,030
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+603
+00:01:51,030 --> 00:01:52,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+604
+00:01:51,030 --> 00:01:52,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+605
+00:01:51,030 --> 00:01:52,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+606
+00:01:51,030 --> 00:01:52,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+607
+00:01:52,400 --> 00:01:52,970
+<font face="Garamond Premr Pro Capt" size="72"></font>
+
+608
+00:01:52,400 --> 00:01:52,840
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+609
+00:01:52,400 --> 00:01:52,840
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+610
+00:01:52,770 --> 00:01:52,970
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">M</font></font>
+
+611
+00:01:52,770 --> 00:01:52,970
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+612
+00:01:52,800 --> 00:01:53,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+613
+00:01:52,800 --> 00:01:53,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+614
+00:01:52,860 --> 00:01:54,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">w</font></font>
+
+615
+00:01:52,860 --> 00:01:54,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+616
+00:01:52,890 --> 00:01:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+617
+00:01:52,920 --> 00:01:55,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+618
+00:01:52,920 --> 00:01:55,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">s</font></font>
+
+619
+00:01:52,920 --> 00:01:55,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+620
+00:01:52,950 --> 00:01:55,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+621
+00:01:52,970 --> 00:01:58,130
+<font face="Garamond Premr Pro Capt" size="72">Sakin ol kalbimde yankılanan ses</font>
+
+622
+00:01:52,970 --> 00:01:53,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">M</font></font></font>
+
+623
+00:01:52,970 --> 00:01:53,500
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+624
+00:01:52,980 --> 00:01:55,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+625
+00:01:52,980 --> 00:01:55,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+626
+00:01:53,010 --> 00:01:56,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+627
+00:01:53,010 --> 00:01:56,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+628
+00:01:53,040 --> 00:01:56,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+629
+00:01:53,040 --> 00:01:56,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+630
+00:01:53,070 --> 00:01:56,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">g</font></font>
+
+631
+00:01:53,070 --> 00:01:56,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+632
+00:01:53,500 --> 00:01:58,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">M</font></font>
+
+633
+00:01:53,500 --> 00:01:58,330
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+634
+00:01:53,500 --> 00:01:53,850
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+635
+00:01:53,500 --> 00:01:53,850
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+636
+00:01:53,850 --> 00:01:58,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+637
+00:01:53,850 --> 00:01:58,360
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+638
+00:01:54,110 --> 00:01:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">w</font></font></font>
+
+639
+00:01:54,110 --> 00:01:54,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+640
+00:01:54,710 --> 00:01:58,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">w</font></font>
+
+641
+00:01:54,710 --> 00:01:58,420
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+642
+00:01:54,710 --> 00:01:55,260
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+643
+00:01:55,260 --> 00:01:58,450
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+644
+00:01:55,260 --> 00:01:55,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+645
+00:01:55,260 --> 00:01:55,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">s</font></font></font>
+
+646
+00:01:55,260 --> 00:01:55,580
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+647
+00:01:55,580 --> 00:01:58,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+648
+00:01:55,580 --> 00:01:58,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">s</font></font>
+
+649
+00:01:55,580 --> 00:01:58,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+650
+00:01:55,580 --> 00:01:55,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+651
+00:01:55,860 --> 00:01:58,510
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+652
+00:01:55,860 --> 00:01:56,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+653
+00:01:55,860 --> 00:01:56,150
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+654
+00:01:56,150 --> 00:01:58,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+655
+00:01:56,150 --> 00:01:58,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+656
+00:01:56,150 --> 00:01:56,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+657
+00:01:56,150 --> 00:01:56,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+658
+00:01:56,460 --> 00:01:58,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+659
+00:01:56,460 --> 00:01:58,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+660
+00:01:56,460 --> 00:01:56,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+661
+00:01:56,460 --> 00:01:56,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+662
+00:01:56,750 --> 00:01:58,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+663
+00:01:56,750 --> 00:01:58,600
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+664
+00:01:56,750 --> 00:01:58,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">g</font></font></font>
+
+665
+00:01:56,750 --> 00:01:58,130
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+666
+00:01:58,040 --> 00:01:58,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">B</font></font>
+
+667
+00:01:58,040 --> 00:01:58,240
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+668
+00:01:58,070 --> 00:01:58,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+669
+00:01:58,070 --> 00:01:58,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+670
+00:01:58,130 --> 00:01:58,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">g</font></font>
+
+671
+00:01:58,130 --> 00:01:58,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+672
+00:01:58,130 --> 00:01:58,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+673
+00:01:58,130 --> 00:01:58,820
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+674
+00:01:58,140 --> 00:02:02,050
+<font face="Garamond Premr Pro Capt" size="72">Bak, bu rüzgâr mis gibi eser</font>
+
+675
+00:01:58,160 --> 00:01:59,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">h</font></font>
+
+676
+00:01:58,160 --> 00:01:59,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+677
+00:01:58,190 --> 00:01:59,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">r</font></font>
+
+678
+00:01:58,190 --> 00:01:59,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+679
+00:01:58,220 --> 00:01:59,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+680
+00:01:58,220 --> 00:01:59,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+681
+00:01:58,240 --> 00:01:58,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">B</font></font></font>
+
+682
+00:01:58,240 --> 00:01:58,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+683
+00:01:58,250 --> 00:02:00,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">z</font></font>
+
+684
+00:01:58,250 --> 00:02:00,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+685
+00:01:58,400 --> 00:02:02,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">B</font></font>
+
+686
+00:01:58,400 --> 00:02:02,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+687
+00:01:58,400 --> 00:01:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+688
+00:01:58,400 --> 00:01:58,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+689
+00:01:58,520 --> 00:02:02,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+690
+00:01:58,520 --> 00:02:02,280
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+691
+00:01:58,820 --> 00:01:59,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+692
+00:01:58,820 --> 00:01:59,060
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+693
+00:01:59,060 --> 00:02:02,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+694
+00:01:59,060 --> 00:02:02,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+695
+00:01:59,060 --> 00:01:59,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">h</font></font></font>
+
+696
+00:01:59,060 --> 00:01:59,710
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+697
+00:01:59,710 --> 00:02:02,370
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">h</font></font>
+
+698
+00:01:59,710 --> 00:02:02,370
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+699
+00:01:59,710 --> 00:01:59,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">r</font></font></font>
+
+700
+00:01:59,710 --> 00:01:59,980
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+701
+00:01:59,980 --> 00:02:02,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">r</font></font>
+
+702
+00:01:59,980 --> 00:02:02,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+703
+00:01:59,980 --> 00:02:00,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+704
+00:01:59,980 --> 00:02:00,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+705
+00:02:00,220 --> 00:02:02,430
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+706
+00:02:00,220 --> 00:02:02,430
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+707
+00:02:00,220 --> 00:02:02,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">z</font></font></font>
+
+708
+00:02:00,220 --> 00:02:02,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+709
+00:02:02,050 --> 00:02:02,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">z</font></font>
+
+710
+00:02:02,050 --> 00:02:02,460
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+711
+00:02:02,050 --> 00:02:02,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">A</font></font>
+
+712
+00:02:02,080 --> 00:02:02,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">n</font></font>
+
+713
+00:02:02,080 --> 00:02:02,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+714
+00:02:02,140 --> 00:02:03,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+715
+00:02:02,140 --> 00:02:03,480
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+716
+00:02:02,170 --> 00:02:04,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+717
+00:02:02,170 --> 00:02:04,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+718
+00:02:02,230 --> 00:02:04,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+719
+00:02:02,230 --> 00:02:04,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+720
+00:02:02,250 --> 00:02:06,670
+<font face="Garamond Premr Pro Capt" size="72">Bulutların arkasından</font>
+
+721
+00:02:02,250 --> 00:02:02,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">A</font></font></font>
+
+722
+00:02:02,290 --> 00:02:05,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+723
+00:02:02,290 --> 00:02:05,000
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+724
+00:02:02,320 --> 00:02:05,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+725
+00:02:02,350 --> 00:02:05,550
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+726
+00:02:02,350 --> 00:02:05,550
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+727
+00:02:02,380 --> 00:02:05,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">y</font></font>
+
+728
+00:02:02,380 --> 00:02:05,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+729
+00:02:02,410 --> 00:02:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+730
+00:02:02,410 --> 00:02:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+731
+00:02:02,810 --> 00:02:06,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">A</font></font>
+
+732
+00:02:02,810 --> 00:02:03,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">n</font></font></font>
+
+733
+00:02:02,810 --> 00:02:03,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+734
+00:02:03,220 --> 00:02:06,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">n</font></font>
+
+735
+00:02:03,220 --> 00:02:06,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+736
+00:02:03,480 --> 00:02:04,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+737
+00:02:03,480 --> 00:02:04,080
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+738
+00:02:04,080 --> 00:02:06,960
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+739
+00:02:04,080 --> 00:02:06,960
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+740
+00:02:04,080 --> 00:02:04,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+741
+00:02:04,080 --> 00:02:04,390
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+742
+00:02:04,390 --> 00:02:06,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+743
+00:02:04,390 --> 00:02:06,990
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+744
+00:02:04,670 --> 00:02:04,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+745
+00:02:04,670 --> 00:02:04,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+746
+00:02:04,920 --> 00:02:07,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+747
+00:02:04,920 --> 00:02:07,050
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+748
+00:02:05,000 --> 00:02:05,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+749
+00:02:05,000 --> 00:02:05,250
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+750
+00:02:05,250 --> 00:02:07,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+751
+00:02:05,250 --> 00:02:07,110
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+752
+00:02:05,250 --> 00:02:05,550
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+753
+00:02:05,550 --> 00:02:07,140
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+754
+00:02:05,550 --> 00:02:05,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+755
+00:02:05,550 --> 00:02:05,870
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+756
+00:02:05,870 --> 00:02:07,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+757
+00:02:05,870 --> 00:02:07,170
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+758
+00:02:05,870 --> 00:02:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">y</font></font></font>
+
+759
+00:02:05,870 --> 00:02:06,160
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+760
+00:02:06,160 --> 00:02:07,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">y</font></font>
+
+761
+00:02:06,160 --> 00:02:07,200
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+762
+00:02:06,160 --> 00:02:06,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+763
+00:02:06,160 --> 00:02:06,670
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+764
+00:02:06,560 --> 00:02:06,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">T</font></font>
+
+765
+00:02:06,560 --> 00:02:06,760
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+766
+00:02:06,590 --> 00:02:06,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+767
+00:02:06,650 --> 00:02:07,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+768
+00:02:06,650 --> 00:02:07,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+769
+00:02:06,670 --> 00:02:07,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+770
+00:02:06,670 --> 00:02:07,230
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+771
+00:02:06,680 --> 00:02:07,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+772
+00:02:06,680 --> 00:02:07,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+773
+00:02:06,700 --> 00:02:11,340
+<font face="Garamond Premr Pro Capt" size="72">Uzaklardan, en uzaktan</font>
+
+774
+00:02:06,710 --> 00:02:08,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+775
+00:02:06,710 --> 00:02:08,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+776
+00:02:06,740 --> 00:02:08,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">t</font></font>
+
+777
+00:02:06,740 --> 00:02:08,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+778
+00:02:06,760 --> 00:02:06,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">T</font></font></font>
+
+779
+00:02:06,760 --> 00:02:06,900
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+780
+00:02:06,770 --> 00:02:08,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">o</font></font>
+
+781
+00:02:06,800 --> 00:02:09,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">k</font></font>
+
+782
+00:02:06,800 --> 00:02:09,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">u</font></font>
+
+783
+00:02:06,830 --> 00:02:09,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">m</font></font>
+
+784
+00:02:06,830 --> 00:02:09,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">a</font></font>
+
+785
+00:02:06,860 --> 00:02:09,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">d</font></font>
+
+786
+00:02:06,860 --> 00:02:09,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000">e</font></font>
+
+787
+00:02:06,900 --> 00:02:11,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">T</font></font>
+
+788
+00:02:06,900 --> 00:02:11,540
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+789
+00:02:06,900 --> 00:02:07,270
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+790
+00:02:07,270 --> 00:02:11,570
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+791
+00:02:07,340 --> 00:02:07,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+792
+00:02:07,340 --> 00:02:07,920
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+793
+00:02:07,920 --> 00:02:11,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+794
+00:02:07,920 --> 00:02:11,630
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+795
+00:02:07,920 --> 00:02:08,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+796
+00:02:07,920 --> 00:02:08,220
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+797
+00:02:08,220 --> 00:02:11,660
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+798
+00:02:08,220 --> 00:02:11,660
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+799
+00:02:08,220 --> 00:02:08,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+800
+00:02:08,220 --> 00:02:08,520
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+801
+00:02:08,520 --> 00:02:11,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+802
+00:02:08,520 --> 00:02:11,690
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+803
+00:02:08,520 --> 00:02:08,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">t</font></font></font>
+
+804
+00:02:08,520 --> 00:02:08,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+805
+00:02:08,810 --> 00:02:11,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">t</font></font>
+
+806
+00:02:08,810 --> 00:02:11,720
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+807
+00:02:08,810 --> 00:02:09,100
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">o</font></font></font>
+
+808
+00:02:09,100 --> 00:02:11,750
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">o</font></font>
+
+809
+00:02:09,100 --> 00:02:09,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">k</font></font></font>
+
+810
+00:02:09,100 --> 00:02:09,400
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">u</font></font></font>
+
+811
+00:02:09,400 --> 00:02:11,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">k</font></font>
+
+812
+00:02:09,400 --> 00:02:11,780
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">u</font></font>
+
+813
+00:02:09,400 --> 00:02:09,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">m</font></font></font>
+
+814
+00:02:09,400 --> 00:02:09,860
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">a</font></font></font>
+
+815
+00:02:09,860 --> 00:02:11,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">m</font></font>
+
+816
+00:02:09,860 --> 00:02:11,810
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">a</font></font>
+
+817
+00:02:09,860 --> 00:02:11,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">d</font></font></font>
+
+818
+00:02:09,860 --> 00:02:11,340
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#000000"><font color="#ffffff">e</font></font></font>
+
+819
+00:02:11,340 --> 00:02:11,840
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">d</font></font>
+
+820
+00:02:11,340 --> 00:02:11,840
+<font face="Garamond Premr Pro Capt" size="72" color="#50ffc4">{\an8}<font color="#ffffff">e</font></font>
+
+821
+00:02:14,980 --> 00:02:17,990
+<font face="Times New Roman" size="42">{\an7} <font color="#f7fffa"> 25. Bölüm: Ölümcül Zaaf</font></font>
+
+822
+00:02:20,990 --> 00:02:25,900
+<font face="Impress" size="74">Şimdi bi' özet geçelim. Eğer kopyanın zihni varsa...</font>
+
+823
+00:02:25,900 --> 00:02:30,710
+<font face="Impress" size="74">Edel'in hipnoz büyüsünü zihinsel 
+savunmayı aşmak için kullanacağız...</font>
+
+824
+00:02:30,710 --> 00:02:33,040
+<font face="Impress" size="74">...ve Fern beni öldürecek.</font>
+
+825
+00:02:33,040 --> 00:02:33,490
+<font face="Impress" size="74">Evet.</font>
+
+826
+00:02:33,790 --> 00:02:35,530
+<font face="Impress" size="74">"Evet" derken o kadar kolay mı?</font>
+
+827
+00:02:39,180 --> 00:02:40,620
+<font face="Impress" size="74">Dünste-san.</font>
+
+828
+00:02:48,750 --> 00:02:50,200
+<font face="Impress" size="74">Edel-san nerede?</font>
+
+829
+00:02:51,380 --> 00:02:55,870
+<font face="Impress" size="74">Sense-san'ın kopyası ona 
+saldırınca kaçmak zorunda kaldı.</font>
+
+830
+00:02:57,430 --> 00:03:00,200
+<font face="Impress" size="74">Anlıyorum. Blei-san peki?</font>
+
+831
+00:03:03,000 --> 00:03:06,960
+<font face="Impress" size="74">O da kopyayı oyalarken kaçabildim.</font>
+
+832
+00:03:07,880 --> 00:03:11,050
+<font face="Impress" size="74">Umarım sapasağlamdır.</font>
+
+833
+00:03:19,810 --> 00:03:21,990
+<font face="Impress" size="74">Arkana bakma! Git!</font>
+
+834
+00:03:26,650 --> 00:03:27,900
+<font face="Impress" size="74">A-Ama...</font>
+
+835
+00:03:28,190 --> 00:03:30,690
+<font face="Impress" size="74">İkimizin de geçmemesinden iyidir.</font>
+
+836
+00:03:37,400 --> 00:03:39,410
+<font face="Impress" size="74">Elimde bilgi var.</font>
+
+837
+00:03:39,860 --> 00:03:41,590
+<font face="Impress" size="74">Neden birlikte çalışmıyoruz?</font>
+
+838
+00:03:42,950 --> 00:03:46,320
+<font face="Impress" size="74">Ben ta en baştan bunu önermiştim.</font>
+
+839
+00:03:47,940 --> 00:03:50,250
+<font face="Impress" size="74">Bu adamı tedavi edebilecek biri var mı?</font>
+
+840
+00:03:51,210 --> 00:03:55,590
+<font face="Impress" size="74">Kutsal bir kitabım var. 
+ Basit iyileştirme büyüleri yapabilirim.</font>
+
+841
+00:03:56,080 --> 00:03:57,070
+<font face="Impress" size="74">Sağ olasın.</font>
+
+842
+00:04:04,220 --> 00:04:05,310
+<font face="Impress" size="74">Anlıyorum.</font>
+
+843
+00:04:05,790 --> 00:04:08,300
+<font face="Impress" size="74">Kopyaların zihinleri yok.</font>
+
+844
+00:04:08,690 --> 00:04:11,800
+<font face="Impress" size="74">Evet. Edel-san'a göre...</font>
+
+845
+00:04:11,800 --> 00:04:15,300
+<font face="Impress" size="74">...somut bir zihinleri olmasa dahi
+ kişinin zihninin tüm işlevlerini...</font>
+
+846
+00:04:15,300 --> 00:04:17,650
+<font face="Impress" size="74">...bütünüyle taklit ediyorlar.</font>
+
+847
+00:04:18,590 --> 00:04:21,700
+<font face="Impress" size="74">Eldeki seçeneklerden birisi gitti.</font>
+
+848
+00:04:22,610 --> 00:04:25,560
+<font face="Impress" size="74">Buna göre strateji yapmamız gerekecek.</font>
+
+849
+00:04:26,240 --> 00:04:31,580
+<font face="Impress" size="74">Frieren, iyi hoş ama hâlâ bilmediğimiz çok şey var.</font>
+
+850
+00:04:32,280 --> 00:04:37,850
+<font face="Impress" size="74">En büyük soru "Bu kopyalar nedir ve onları kim yarattı"?</font>
+
+851
+00:04:38,340 --> 00:04:41,670
+<font face="Impress" size="74">Esas olayı bilmeden onlarla başa çıkmamız çok zor.</font>
+
+852
+00:04:42,390 --> 00:04:45,290
+<font face="Impress" size="74">Özellikle de kopyaların kendine has zaafları var mı...</font>
+
+853
+00:04:45,290 --> 00:04:46,970
+<font face="Impress" size="74">...bilmemiz gerekiyor.</font>
+
+854
+00:04:47,430 --> 00:04:52,390
+<font face="Impress" size="74">Misal bu kopya gerçekten senin kadar 
+güçlüyse muhtemelen bazılarımız ölür.</font>
+
+855
+00:04:54,450 --> 00:04:56,710
+<font face="Impress" size="74">Bu soruya cevap vermeyeceğim.</font>
+
+856
+00:04:56,710 --> 00:04:57,880
+<font face="Impress" size="74">Tahmin etmiştim.</font>
+
+857
+00:04:58,510 --> 00:05:00,890
+<font face="Impress" size="74">Zaafı maafı yok.</font>
+
+858
+00:05:01,500 --> 00:05:04,080
+<font face="Impress" size="74">Karşımızdaki kopyaları...</font>
+
+859
+00:05:04,080 --> 00:05:07,210
+<font face="Impress" size="74">...Spiegel denen, efsanevi çağdan
+ kalma bir canavar kontrol ediyor.</font>
+
+860
+00:05:07,780 --> 00:05:09,050
+<font face="Impress" size="74">Lawine.</font>
+
+861
+00:05:09,050 --> 00:05:10,790
+<font face="Impress" size="74">Nereden biliyorsun?</font>
+
+862
+00:05:11,100 --> 00:05:15,060
+<font face="Impress" size="74">En büyük abim, Kıtasal Büyü Birliği'nin..</font>
+
+863
+00:05:15,060 --> 00:05:18,580
+<font face="Impress" size="74">Kral Mezarı Harabeleri'ne
+ gönderdiği öncü ekiptendi.</font>
+
+864
+00:05:19,540 --> 00:05:24,890
+<font face="Impress" size="74">Elinde güzelinden bilgi varmış.  
+Buraya kadar gelebilmene şaşmamalı.</font>
+
+865
+00:05:26,620 --> 00:05:29,870
+<font face="Impress" size="74">Ama mantıksız bir seçim yaptın.</font>
+
+866
+00:05:30,410 --> 00:05:35,940
+<font face="Impress" size="74">Bilgini paylaşıp en başından bizimle çalışmalıydın.</font>
+
+867
+00:05:35,940 --> 00:05:39,010
+<font face="Impress" size="74">O zaman sizinle çalışamayız diye düşünmüştüm.</font>
+
+868
+00:05:39,420 --> 00:05:43,320
+<font face="Impress" size="74">Hatta bir bakmışız Frieren'le 
+Fern biz görmeden gitmişler bile.</font>
+
+869
+00:05:43,320 --> 00:05:44,990
+<font face="Impress" size="74">Haa şey var bir de moruk...</font>
+
+870
+00:05:44,990 --> 00:05:48,480
+<font face="Impress" size="74">Kurallara aykırı olmadığı
+ sürece yanındakileri satacak tipin var.</font>
+
+871
+00:05:50,560 --> 00:05:52,540
+<font face="Impress" size="74">Herkes seninle çalışmadan iki kere düşünür.</font>
+
+872
+00:05:52,840 --> 00:05:55,990
+<font face="Impress" size="74">Senden nefret ediyor.</font>
+
+873
+00:05:55,990 --> 00:05:58,770
+<font face="Impress" size="74">Moruğuz tamam da...</font>
+
+874
+00:05:58,770 --> 00:06:01,800
+<font face="Impress" size="74">...yüzüme karşı söyleyince kırılıyorum.</font>
+
+875
+00:06:02,210 --> 00:06:04,580
+<font face="Impress" size="74">Özür mü dilesen?</font>
+
+876
+00:06:04,580 --> 00:06:06,180
+<font face="Impress" size="74">Özür, moruk.</font>
+
+877
+00:06:09,020 --> 00:06:11,790
+<font face="Impress" size="74">Öncü ekibin gözlem raporuna göre...</font>
+
+878
+00:06:11,790 --> 00:06:17,160
+<font face="Impress" size="74">...Spiegel şu kapının öbür
+ tarafındaki hazine odasında.</font>
+
+879
+00:06:17,800 --> 00:06:22,100
+<font face="Impress" size="74">Canavarın kendisi çok güçsüz
+ ve doğrudan saldırmasının imkânı yok.</font>
+
+880
+00:06:23,300 --> 00:06:26,610
+<font face="Impress" size="74">Onu yendik mi tüm kopyalar puf.</font>
+
+881
+00:06:27,700 --> 00:06:31,110
+<font face="Impress" size="74">Mana tespitimizle eşleşiyor.</font>
+
+882
+00:06:32,730 --> 00:06:35,710
+<font face="Impress" size="74">Canavar kapının diğer tarafında...</font>
+
+883
+00:06:35,710 --> 00:06:39,900
+<font face="Impress" size="74">...ama güçlü bir mühürleme büyüsüyle sıkıca kapatılmış.</font>
+
+884
+00:06:40,500 --> 00:06:45,830
+<font face="Impress" size="74">Bizzat ben de teyit ettim.
+ Muhtemelen kopyam yapmıştır.</font>
+
+885
+00:06:46,870 --> 00:06:50,840
+<font face="Impress" size="74">Hayatını ortaya koyarak
+ hazine kapısını kitleyen bir büyü.</font>
+
+886
+00:06:51,250 --> 00:06:54,870
+<font face="Impress" size="74">Irk büyüleri arasında bile üst 
+düzey bir mühürleme büyüsüdür.</font>
+
+887
+00:06:55,600 --> 00:06:58,820
+<font face="Impress" size="74">Büyüyü yapan kişi ölene kadar o kapı açılmaz.</font>
+
+888
+00:07:00,360 --> 00:07:04,040
+<font face="Impress" size="74">Kapıyı görmezden gelip duvarı kırabiliriz...</font>
+
+889
+00:07:04,040 --> 00:07:06,600
+<font face="Impress" size="74">...ama bunu da hesaba katmıştır.</font>
+
+890
+00:07:08,940 --> 00:07:16,060
+<font face="Impress" size="74">Her türlü Spiegel'i alt etmek
+ istiyorsak o kopyayı yenmemiz gerekecek.</font>
+
+891
+00:07:17,130 --> 00:07:19,510
+<font face="Impress" size="74">O zaman elimizi çabuk tutmalıyız.</font>
+
+892
+00:07:20,220 --> 00:07:21,700
+<font face="Impress" size="74">O ne demek?</font>
+
+893
+00:07:21,990 --> 00:07:27,310
+<font face="Impress" size="74">Spiegel zindandaki herkesin kopyalarını yaratır.</font>
+
+894
+00:07:27,860 --> 00:07:33,460
+<font face="Impress" size="74">Zamanla kopyalar zindanın 
+dibinde toplanmaya başlar.</font>
+
+895
+00:07:35,780 --> 00:07:41,440
+<font face="Impress" size="74">Abimin ekibi dışında öncü 
+grubun çoğu üyesi tam burada...</font>
+
+896
+00:07:43,840 --> 00:07:48,100
+<font face="Impress" size="74">...dibe gitmeden bir adım önce öldü.</font>
+
+897
+00:07:54,060 --> 00:07:56,290
+<font face="Impress" size="74">Anlıyorum.</font>
+
+898
+00:07:56,290 --> 00:07:57,350
+<font face="Impress" size="74">Şey...</font>
+
+899
+00:07:58,010 --> 00:08:02,340
+<font face="Impress" size="74">Kopyalar bir zihnin işlevlerini 
+tam olarak taklit ediyor, değil mi?</font>
+
+900
+00:08:02,700 --> 00:08:05,920
+<font face="Impress" size="74">O hâlde davranışlarındaki herhangi bir zaaf...</font>
+
+901
+00:08:05,920 --> 00:08:07,840
+<font face="Impress" size="74">...orijinaliyle aynı olmaz mı?</font>
+
+902
+00:08:08,150 --> 00:08:09,580
+<font face="Impress" size="74">Muhtemelen.</font>
+
+903
+00:08:11,510 --> 00:08:14,960
+<font face="Impress" size="74">O zaman şansımız olabilir.</font>
+
+904
+00:08:15,370 --> 00:08:17,680
+<font face="Impress" size="74">Hangi zaafı diyorsun?</font>
+
+905
+00:08:21,040 --> 00:08:25,790
+<font face="Impress" size="74">Frieren-sama, duvarın şu tarafında durabilir misiniz?</font>
+
+906
+00:08:26,190 --> 00:08:26,730
+<font face="Impress" size="74">Tamam.</font>
+
+907
+00:08:46,450 --> 00:08:47,730
+<font face="Impress" size="74">Bu...</font>
+
+908
+00:08:48,320 --> 00:08:52,160
+<font face="Impress" size="74">Aman Allah'ım... Tövbeler tövbesi...</font>
+
+909
+00:08:52,160 --> 00:08:53,860
+<font face="Impress" size="74">Fark ettiniz mi?</font>
+
+910
+00:08:54,810 --> 00:08:56,480
+<font face="Impress" size="74">Sen anladın mı?</font>
+
+911
+00:08:56,480 --> 00:08:57,430
+<font face="Impress" size="74">Yok.</font>
+
+912
+00:08:57,430 --> 00:09:02,040
+<font face="Impress" size="74">Bu Frieren'in ölümcül zaafı.</font>
+
+913
+00:09:02,040 --> 00:09:05,510
+<font face="Impress" size="74">Onunla savaşırken nasıl fark etmem?</font>
+
+914
+00:09:06,960 --> 00:09:12,060
+<font face="Impress" size="74">Hayır, deneyimli büyücüler hakkındaki 
+ön yargılarım yüzünden fark edemedim.</font>
+
+915
+00:09:13,840 --> 00:09:19,320
+<font face="Impress" size="74">Büyü yaparken mana tespitini
+ kısa süreliğine durduruyor.</font>
+
+916
+00:09:19,710 --> 00:09:23,430
+<font face="Impress" size="74">Çömez büyücülerin yaptığı yaygın bir hata değil mi bu?</font>
+
+917
+00:09:23,430 --> 00:09:25,840
+<font face="Impress" size="74">Bu konuda hiçbir zaman usta olamadım.</font>
+
+918
+00:09:26,130 --> 00:09:29,590
+<font face="Impress" size="74">Farkındaysanız neden bir şey söylemediniz?</font>
+
+919
+00:09:30,010 --> 00:09:32,170
+<font face="Impress" size="74">Çünkü çok utandım.</font>
+
+920
+00:09:32,170 --> 00:09:34,470
+<font face="Impress" size="74">Şimdi öğrenmemiz daha mı güzel oldu?</font>
+
+921
+00:09:35,510 --> 00:09:39,720
+<font face="Impress" size="74">Ama diğer tüm alanlarda çok yetenekli.</font>
+
+922
+00:09:40,620 --> 00:09:45,130
+<font face="Impress" size="74">Bu zaafı kullanabilecek çok fazla
+ büyücü olduğunu sanmıyorum.</font>
+
+923
+00:09:45,130 --> 00:09:48,000
+<font face="Impress" size="74">Neyse stratejimizi şekillendirelim.</font>
+
+924
+00:10:10,760 --> 00:10:13,580
+<font face="Impress" size="74">Frieren'in kopyasını hallettik 
+diyelim diğerleri ne olacak?</font>
+
+925
+00:10:13,580 --> 00:10:15,630
+<font face="Impress" size="74">{\an8}Spiegel'i yenersek hepsi yok olmaz mı?</font>
+
+926
+00:10:13,610 --> 00:10:16,820
+<font face="Impress" size="74">Frieren-sama, eğleniyor gibisiniz.</font>
+
+927
+00:10:15,630 --> 00:10:17,640
+<font face="Impress" size="74">{\an8}Kopyalar o zamandan önce toplanır.</font>
+
+928
+00:10:17,630 --> 00:10:18,670
+<font face="Impress" size="74">Evet.</font>
+
+929
+00:10:27,460 --> 00:10:29,270
+<font face="Impress" size="74"><i>Strateji hazır sayılır.</i></font>
+
+930
+00:10:29,630 --> 00:10:33,920
+<font face="Impress" size="74"><i>Eisen düşmanı kendisine çekecek,
+ ben de kanattan saldıracağım.</i></font>
+
+931
+00:10:35,080 --> 00:10:37,170
+<font face="Impress" size="74"><i>Frieren, sen de destek ateşiyle vuracaksın.</i></font>
+
+932
+00:10:37,170 --> 00:10:38,270
+<font face="Impress" size="74"><i>Heiter n'apacak?</i></font>
+
+933
+00:10:38,270 --> 00:10:40,680
+<font face="Impress" size="74"><i>Bugün izinli. Akşamdan kalmaymış.</i></font>
+
+934
+00:10:42,290 --> 00:10:43,650
+<font face="Impress" size="74"><i>Ölmüş bile.</i></font>
+
+935
+00:11:03,500 --> 00:11:06,560
+<font face="Impress" size="74">Zindanın efendisini...</font>
+
+936
+00:11:06,560 --> 00:11:09,060
+<font face="Impress" size="74">...nasıl yeneceğimizi tartıştığımız zamanlar aklıma geldi.</font>
+
+937
+00:11:31,890 --> 00:11:32,960
+<font face="Impress" size="74">Tamamdır.</font>
+
+938
+00:11:32,960 --> 00:11:35,230
+<font face="Impress" size="74">Saldırıya başlayalım.</font>
+
+939
+00:11:36,470 --> 00:11:38,210
+<font face="Impress" size="74">Kazanabilir miyiz?</font>
+
+940
+00:11:38,510 --> 00:11:43,230
+<font face="Impress" size="74">Endişelenme. Fethedilemeyecek hiçbir zindan yoktur.</font>
+
+941
+00:11:43,940 --> 00:11:49,810
+<font face="Impress" size="74">Tarihte en çok zindan fetheden
+ ekibin büyücüsü karşında.</font>
+
+942
+00:11:53,050 --> 00:11:59,620
+<font face="Impress" size="74">İkiniz Frieren'in kopyasıyla savaşırken
+ yardıma ihtiyacınız yok mu cidden?</font>
+
+943
+00:12:00,100 --> 00:12:04,230
+<font face="Impress" size="74">Sayımız ne kadar az olursa
+ hareketlerini tahmin etmek o kadar kolay olur.</font>
+
+944
+00:12:05,830 --> 00:12:12,460
+<font face="Impress" size="74">Beraber savaşırsak kazanırız
+ ama çok kayıp veririz.</font>
+
+945
+00:12:13,400 --> 00:12:16,930
+<font face="Impress" size="74">Kaçış golemlerimizi kullanacak
+ zamanımız bile olur mu bilmem.</font>
+
+946
+00:12:17,460 --> 00:12:23,750
+<font face="Impress" size="74">Bu yüzden dipte toplanan 
+kopyaları yavaşlatmak daha önemli.</font>
+
+947
+00:12:29,100 --> 00:12:33,010
+<font face="Impress" size="74">Eğer etrafımızı sararlarsa hepimiz ölürüz.</font>
+
+948
+00:12:34,040 --> 00:12:36,290
+<font face="Impress" size="74">Stratejiyi uygulama vakti.</font>
+
+949
+00:12:36,290 --> 00:12:39,020
+<font face="Impress" size="74">Tamam. Dikkat edin.</font>
+
+950
+00:12:42,230 --> 00:12:43,580
+<font face="Impress" size="74">Kapıyı açalım.</font>
+
+951
+00:13:03,550 --> 00:13:04,540
+<font face="Impress" size="74">O zaman...</font>
+
+952
+00:13:05,660 --> 00:13:09,770
+<font face="Impress" size="74">En iyi eşleşmeleri bulalım.</font>
+
+953
+00:13:35,290 --> 00:13:36,320
+<font face="Impress" size="74">Judradjim.</font>
+
+954
+00:13:41,370 --> 00:13:44,300
+<font face="Impress" size="74"><i>Tıpkı Frieren-sama'nın düşündüğü gibi davranıyor.</i></font>
+
+955
+00:14:01,070 --> 00:14:02,110
+<font face="Impress" size="74">Vollzanbel.</font>
+
+956
+00:14:04,520 --> 00:14:06,600
+<font face="Impress" size="74"><i>Mana tespitini bıraktım.</i></font>
+
+957
+00:14:07,060 --> 00:14:10,820
+<font face="Impress" size="74"><i>Bu fırsatı Fern gizlenirken ona kullandırmam lazım.</i></font>
+
+958
+00:14:12,250 --> 00:14:15,690
+<font face="Impress" size="74"><i>Bir de bana denk olan bu 
+rakiple uğraşmakla meşgulüm.</i></font>
+
+959
+00:14:16,600 --> 00:14:19,490
+<font face="Impress" size="74"><i>Fern'i bulmak için zamanım kalmayacak.</i></font>
+
+960
+00:14:20,830 --> 00:14:25,910
+<font face="Impress" size="74"><i>Çünkü ne kadar korkutucu
+ olabileceğimi bir ben bilirim.</i></font>
+
+961
+00:14:30,630 --> 00:14:32,220
+<font face="Impress" size="74">Halledersin sen.</font>
+
+962
+00:14:32,220 --> 00:14:37,350
+<font face="Impress" size="74">Gizlendiğinde ben bile seni 
+hemencecik tespit edemem.</font>
+
+963
+00:14:37,990 --> 00:14:42,680
+<font face="Impress" size="74">Saldırmak için cidden Zoltraak kullanmam şart mı?</font>
+
+964
+00:14:43,080 --> 00:14:46,060
+<font face="Impress" size="74">Elimizdeki en hızlı büyü bu.</font>
+
+965
+00:14:47,270 --> 00:14:52,440
+<font face="Impress" size="74">Ayrıca, Zoltraak elfler için nispeten yeni bir büyü.</font>
+
+966
+00:14:52,750 --> 00:14:57,230
+<font face="Impress" size="74">Bu büyüye karşı refleks olarak
+savunma yapabilecek aşinalığımız yok.</font>
+
+967
+00:14:58,020 --> 00:15:03,450
+<font face="Impress" size="74">Ona karşılık vermemiz sadece bir anlığına sürer...</font>
+
+968
+00:15:03,880 --> 00:15:06,960
+<font face="Impress" size="74">...ama onu düşünmek için 
+vakit harcarsak çok geç kalırız.</font>
+
+969
+00:15:07,630 --> 00:15:09,350
+<font face="Impress" size="74">Ama sen farklısın.</font>
+
+970
+00:15:10,670 --> 00:15:15,570
+<font face="Impress" size="74">Doğma büyüme Zoltraak'a aşinasın.
+  Senin için özel bir şey değil.</font>
+
+971
+00:15:15,570 --> 00:15:19,600
+<font face="Impress" size="74">Büyücü varlığına kazınmış temel bir büyü.</font>
+
+972
+00:15:21,980 --> 00:15:25,360
+<font face="Impress" size="74">Zoltraak'ın beni öldürebilir.</font>
+
+973
+00:15:25,910 --> 00:15:28,480
+<font face="Impress" size="74">Tüm mana'nı kullanıp ateş et.</font>
+
+974
+00:15:45,870 --> 00:15:50,640
+<font face="Impress" size="74"><i>Frieren, beni sevmezsin sanırdım.</i></font>
+
+975
+00:15:50,640 --> 00:15:53,270
+<font face="Impress" size="74"><i>Neden ayaklarıma kadar geldin.</i></font>
+
+976
+00:15:53,270 --> 00:15:57,570
+<font face="Impress" size="74"><i>Esasında bir daha asla yüzümü görmez diyordum.</i></font>
+
+977
+00:15:58,710 --> 00:16:01,640
+<font face="Impress" size="74"><i>Ustamın vasiyetini iletmeye geldim.</i></font>
+
+978
+00:16:03,440 --> 00:16:05,340
+<font face="Impress" size="74"><i>Elli yıl oldu.</i></font>
+
+979
+00:16:06,190 --> 00:16:09,230
+<font face="Impress" size="74"><i>Vay be. Demek Flamme öldü.</i></font>
+
+980
+00:16:10,640 --> 00:16:12,090
+<font face="Impress" size="74"><i>Üzülmedin mi?</i></font>
+
+981
+00:16:12,860 --> 00:16:15,020
+<font face="Impress" size="74"><i>Onu bir anlık hevesle eğittim.</i></font>
+
+982
+00:16:21,470 --> 00:16:23,470
+<font face="Impress" size="74"><i>Rapor yazmış sanki.</i></font>
+
+983
+00:16:23,980 --> 00:16:26,030
+<font face="Impress" size="74"><i>Ne diyor?</i></font>
+
+984
+00:16:26,500 --> 00:16:31,270
+<font face="Impress" size="74"><i>İmparator ülke çapında
+ büyü araştırmalarına izin vermiş.</i></font>
+
+985
+00:16:32,680 --> 00:16:37,920
+<font face="Impress" size="74"><i>Şimdiye kadar insan toplumları büyüyü iblisler tarafından kullanılan bir teknik olarak görüyordu...</i></font>
+
+986
+00:16:37,920 --> 00:16:41,370
+<font face="Impress" size="74"><i>...ve kanunen incelenmesi yasaktı.</i></font>
+
+987
+00:16:42,080 --> 00:16:44,190
+<font face="Impress" size="74"><i>Flamme buna izin vermesi için...</i></font>
+
+988
+00:16:44,520 --> 00:16:49,700
+<font face="Impress" size="74"><i>...İmparator'u ikna etmiş ve 
+imparatorluk büyücülerini eğitmiş.</i></font>
+
+989
+00:16:51,040 --> 00:16:55,070
+<font face="Impress" size="74"><i>Onun yerine geçmemi istiyor.</i></font>
+
+990
+00:16:56,950 --> 00:16:59,260
+<font face="Impress" size="74"><i>Doyumsuz karı.</i></font>
+
+991
+00:17:00,330 --> 00:17:06,550
+<font face="Impress" size="74"><i>Büyü araştırmalarına izin almak başlı 
+başına beceri ama o daha fazlasını istiyor.</i></font>
+
+992
+00:17:07,240 --> 00:17:09,460
+<font face="Impress" size="74"><i>Bu o kadar etkileyici bir başarı mı?</i></font>
+
+993
+00:17:10,070 --> 00:17:14,470
+<font face="Impress" size="74"><i>Kıtanın en büyük birleşik imparatorluğu büyü üzerinde çalışmaya...</i></font>
+
+994
+00:17:14,470 --> 00:17:16,840
+<font face="Impress" size="74"><i>...ve onu askerî alanda kullanıma hazırlanıyor.</i></font>
+
+995
+00:17:17,750 --> 00:17:20,400
+<font face="Impress" size="74"><i>Komşu ulusların da eli armut toplamayacak.</i></font>
+
+996
+00:17:20,400 --> 00:17:24,850
+<font face="Impress" size="74"><i>Sadece birkaç yıl içinde büyü tüm kıtaya yayılacak.</i></font>
+
+997
+00:17:25,920 --> 00:17:29,620
+<font face="Impress" size="74"><i>Tüm insanların büyü kullanabildiği bir çağa gireceğiz.</i></font>
+
+998
+00:17:30,830 --> 00:17:33,040
+<font face="Impress" size="74"><i>Yakın zamanda...</i></font>
+
+999
+00:17:33,040 --> 00:17:36,930
+<font face="Impress" size="74"><i>...insanlar Şeytan Kral'ın güçlerine
+ karşı savaşacak gücü elde edecek.</i></font>
+
+1000
+00:17:37,410 --> 00:17:40,790
+<font face="Impress" size="74"><i>Öyle mi? Çok güzel.</i></font>
+
+1001
+00:17:41,240 --> 00:17:42,630
+<font face="Impress" size="74"><i>Eh öyle denebilir.</i></font>
+
+1002
+00:17:45,580 --> 00:17:49,760
+<font face="Impress" size="74"><i>Ama benim istediğim bu değil.</i></font>
+
+1003
+00:17:50,750 --> 00:17:52,790
+<font face="Impress" size="74"><i>Git hadi, Frieren.</i></font>
+
+1004
+00:17:53,400 --> 00:17:56,370
+<font face="Impress" size="74"><i>Ustanın son isteğini yerine getiremem.</i></font>
+
+1005
+00:17:56,370 --> 00:17:58,000
+<font face="Impress" size="74"><i>Boş beleş işler.</i></font>
+
+1006
+00:18:00,020 --> 00:18:02,860
+<font face="Impress" size="74"><i>Herkesin büyü kullanabildiği bir çağ mı?</i></font>
+
+1007
+00:18:03,510 --> 00:18:05,970
+<font face="Impress" size="74"><i>Büyü dediğin özel olmalı.</i></font>
+
+1008
+00:18:06,910 --> 00:18:09,760
+<font face="Impress" size="74"><i>Yeteneği olmayana bir halt öğretmem.</i></font>
+
+1009
+00:18:10,700 --> 00:18:13,170
+<font face="Impress" size="74"><i>Bunu bana yazmaya nasıl cüret eder?</i></font>
+
+1010
+00:18:13,170 --> 00:18:16,160
+<font face="Impress" size="74"><i>Flamme ve ben birbirimizi hiç anlayamadık.</i></font>
+
+1011
+00:18:17,050 --> 00:18:20,220
+<font face="Impress" size="74"><i>Sadece bir anlık hevesle eğittiğim öğrencimdi.</i></font>
+
+1012
+00:18:20,660 --> 00:18:26,920
+<font face="Impress" size="74"><i>Ustam muhtemelen senin kızıp
+ vasiyetini yırtacağını söylemişti.</i></font>
+
+1013
+00:18:29,270 --> 00:18:34,290
+<font face="Impress" size="74"><i>Yine de sana hayalinin 
+gerçekleştiğini bir şekilde iletmek istedi.</i></font>
+
+1014
+00:18:35,010 --> 00:18:36,800
+<font face="Impress" size="74"><i>Hiç mantıklı değil, değil mi?</i></font>
+
+1015
+00:18:41,080 --> 00:18:42,900
+<font face="Impress" size="74"><i>Neyse gidiyorum.</i></font>
+
+1016
+00:18:43,550 --> 00:18:46,280
+<font face="Impress" size="74"><i>Tekrar görüşür müyüz bilmem.</i></font>
+
+1017
+00:18:46,280 --> 00:18:47,210
+<font face="Impress" size="74"><i>Frieren.</i></font>
+
+1018
+00:18:49,450 --> 00:18:51,740
+<font face="Impress" size="74"><i>Gitmeden önce, benimle biraz yürü.</i></font>
+
+1019
+00:18:52,180 --> 00:18:55,700
+<font face="Impress" size="74"><i>Sonuçta dünya kadar vaktimiz var.</i></font>
+
+1020
+00:18:59,680 --> 00:19:04,220
+<font face="Impress" size="74"><i>Herkesin büyü kullanabildiği bir çağ Flamme'nin hayaliydi.</i></font>
+
+1021
+00:19:05,830 --> 00:19:09,850
+<font face="Impress" size="74"><i>İlk başta insanlara yardım etmeyi...</i></font>
+
+1022
+00:19:09,850 --> 00:19:15,200
+<font face="Impress" size="74"><i>...ve Şeytan Kral'ın ordusuyla
+ savaşacak gücü önemsiyor mu bilememiştim.</i></font>
+
+1023
+00:19:20,310 --> 00:19:23,260
+<font face="Impress" size="74"><i>En sevdiği büyünün ne olduğunu biliyor musun?</i></font>
+
+1024
+00:19:24,280 --> 00:19:26,290
+<font face="Impress" size="74"><i>Çiçek tarlası yaratma büyüsü.</i></font>
+
+1025
+00:19:27,660 --> 00:19:31,140
+<font face="Impress" size="74"><i>Boş beleş, dandik bir büyü.</i></font>
+
+1026
+00:19:36,330 --> 00:19:39,080
+<font face="Impress" size="74"><i>Büyüyü gerçekten seviyordu.</i></font>
+
+1027
+00:19:39,570 --> 00:19:45,340
+<font face="Impress" size="74"><i>Dünyadaki herkesin böyle büyüler yapabilmesini çok istiyordu.</i></font>
+
+1028
+00:19:46,880 --> 00:19:48,770
+<font face="Impress" size="74"><i>Böyle deyince iğrenirdim.</i></font>
+
+1029
+00:19:49,680 --> 00:19:56,050
+<font face="Impress" size="74"><i>Kızın hayaliydi ve gerçekten istediği de buydu.</i></font>
+
+1030
+00:19:57,460 --> 00:20:04,110
+<font face="Impress" size="74"><i>Daha bacak kadar boyu varken
+ bana bu hayalinden bahsetmişti.</i></font>
+
+1031
+00:20:05,690 --> 00:20:10,260
+<font face="Impress" size="74"><i>Açıkçası hayal ettiği çağın 
+hemen gelmeyeceğini düşünürdüm.</i></font>
+
+1032
+00:20:10,260 --> 00:20:13,440
+<font face="Impress" size="74"><i>Bunu başarabileceğini düşünmüyordum.</i></font>
+
+1033
+00:20:16,740 --> 00:20:22,000
+<font face="Impress" size="74"><i>Bana göre, hayatı neredeyse 
+hiçbir şey olmayacak kadar kısaydı...</i></font>
+
+1034
+00:20:22,000 --> 00:20:25,060
+<font face="Impress" size="74"><i>...yine de insanlık büyüsünün kurucusu oldu.</i></font>
+
+1035
+00:20:25,760 --> 00:20:29,140
+<font face="Impress" size="74"><i>Ustam her zaman hızlı karar verirdi.</i></font>
+
+1036
+00:20:29,640 --> 00:20:32,360
+<font face="Impress" size="74"><i>Acelesi varmış gibi hissederdim.</i></font>
+
+1037
+00:20:34,420 --> 00:20:36,860
+<font face="Impress" size="74"><i>İnsanların ömürleri sınırlıdır.</i></font>
+
+1038
+00:20:36,860 --> 00:20:39,640
+<font face="Impress" size="74"><i>Ölüme bizden çok daha yakınlar.</i></font>
+
+1039
+00:20:41,160 --> 00:20:46,690
+<font face="Impress" size="74"><i>Hepimiz hayatımızın çeşitli anlarında
+ önemli kararlar vermek zorundayız...</i></font>
+
+1040
+00:20:46,690 --> 00:20:50,360
+<font face="Impress" size="74"><i>...ama insanlar bu kararları 
+ertelemeyi göze alamaz.</i></font>
+
+1041
+00:20:52,270 --> 00:20:56,220
+<font face="Impress" size="74"><i>Biz gerek bir gerek iki yüz yıl bekleriz.</i></font>
+
+1042
+00:20:56,880 --> 00:21:00,760
+<font face="Impress" size="74"><i>Hatta bin yıl boyunca görmezden 
+gelsek de bizlik sıkıntı olmaz...</i></font>
+
+1043
+00:21:02,120 --> 00:21:05,990
+<font face="Impress" size="74"><i>...çünkü ömrümüz sonsuzluğa doğru uzanır.</i></font>
+
+1044
+00:21:08,350 --> 00:21:13,280
+<font face="Impress" size="74"><i>Frieren, insanlığın uygarlık denen bir şeyi...</i></font>
+
+1045
+00:21:13,280 --> 00:21:15,160
+<font face="Impress" size="74"><i>...yaratmasının üzerinden epey yıl geçti.</i></font>
+
+1046
+00:21:16,370 --> 00:21:19,490
+<font face="Impress" size="74"><i>Şu andan itibaren ilerleyişleri de hızlanacak.</i></font>
+
+1047
+00:21:22,890 --> 00:21:24,470
+<font face="Impress" size="74"><i>Sadece bin yıl...</i></font>
+
+1048
+00:21:26,020 --> 00:21:28,870
+<font face="Impress" size="74"><i>Sadece bin yıl içinde insanların çağı gelecek.</i></font>
+
+1049
+00:21:34,510 --> 00:21:37,010
+<font face="Impress" size="74"><i>İnsanlar bizi geçecek.</i></font>
+
+1050
+00:21:43,470 --> 00:21:46,480
+<font face="Impress" size="74"><i>Eğitimini aksatma, Frieren.</i></font>
+
+1051
+00:21:58,130 --> 00:22:02,530
+<font face="Impress" size="74"><i>Eğer biri seni öldürürse bu ya Şeytan Kral olur...</i></font>
+
+1052
+00:22:05,130 --> 00:22:07,140
+<font face="Impress" size="74"><i>...ya da fani bir büyücü insan.</i></font>
+
+1053
+00:22:11,860 --> 00:22:14,560
+<font face="Impress" size="74"><i>Dört gözle bekliyorum, Serie.</i></font>
+
+1054
+00:22:16,480 --> 00:22:23,150
+<font face="Impress" size="74"><i>Çok farklı büyücüler ve büyüler göreceğiz.</i></font>
+
+1055
+00:24:20,140 --> 00:24:20,910
+<font face="Impress" size="74">Hadi...</font>
+
+1056
+00:24:20,910 --> 00:24:23,000
+<font face="Impress" size="74">En kötü ihtimalle ikimiz de ölebiliriz.</font>
+
+1057
+00:24:22,540 --> 00:24:25,930
+<font face="Impress" size="74">İnanılmaz, Frieren-sama.</font>
+
+1058
+00:24:22,980 --> 00:24:24,980
+<font face="Impress" size="74"></font>
+
+1059
+00:24:23,180 --> 00:24:24,640
+<font face="Impress" size="74">Sana kalmış.</font>
+
+1060
+00:24:23,820 --> 00:24:25,370
+<font face="Impress" size="74">{\an8}Bu açılış olmaz.</font>
+
+1061
+00:24:25,370 --> 00:24:27,080
+<font face="Impress" size="74">Bu kadarını bekliyorduk.</font>
+
+1062
+00:24:26,190 --> 00:24:27,730
+<font face="Impress" size="74">Yine de yapmak zorundayım.</font>
+
+1063
+00:24:27,520 --> 00:24:29,980
+<font face="Times New Roman" size="46">{\an8}<font color="#000000"> 26. Bölüm
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Büyünün Zirvesi</font></font>
+
+1064
+00:24:27,730 --> 00:24:30,020
+<font face="Impress" size="74">Demek büyünün zirvesi bu.</font>
+
+1065
+00:24:30,020 --> 00:24:32,020
+<font face="Impress" size="74"></font>
+
+1066
+00:24:32,020 --> 00:24:34,020
+<font face="Impress" size="74"></font>
+
