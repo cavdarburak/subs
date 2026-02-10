@@ -1,0 +1,667 @@
+﻿1
+00:00:01,760 --> 00:00:04,490
+"Neden ölüme mahkûm edilmeliyim?"
+
+2
+00:00:04,490 --> 00:00:06,630
+"Hepsi senin suçun."
+
+3
+00:00:06,630 --> 00:00:08,920
+"Yaşayacağım hayattan pişmanlık duymak istemiyorum."
+
+4
+00:00:08,920 --> 00:00:14,310
+"Peki ya kurtardığın o kişi, gelecekte başkalarını öldürürse?"
+
+5
+00:00:14,310 --> 00:00:17,530
+"Etrafın kalabalıkken öl."
+
+6
+00:00:17,530 --> 00:00:21,360
+"Sen çoktan ölüme mahkûm edildin."
+
+7
+00:00:21,360 --> 00:00:25,050
+"Neyse, nasıl öleceğime çoktan karar verdim."
+
+8
+00:00:25,590 --> 00:00:31,300
+"Annem ve ben... insanlar tarafından mı lanetlendik?"
+
+9
+00:00:31,310 --> 00:00:33,100
+"Doğru bir ölüm nedir?"
+
+10
+00:00:34,160 --> 00:00:36,850
+"Yaşamın değeri muğlaklaşır."
+
+11
+00:00:36,860 --> 00:00:39,940
+"Değer verdiğin insanların değeri bile belirsizleşebilir."
+
+12
+00:00:40,940 --> 00:00:42,440
+"Bundan korkuyorum."
+
+13
+00:00:43,320 --> 00:00:45,480
+"Hepsi senin suçun."
+
+14
+00:00:45,480 --> 00:00:49,010
+"Etrafın kalabalıkken öl."
+
+15
+00:00:49,010 --> 00:00:50,910
+"Git ve başkalarına yardım et."
+
+16
+00:00:50,910 --> 00:00:53,240
+"Ben ölemem."
+
+17
+00:00:54,080 --> 00:00:59,110
+"Bu yüzden seni kurtardığıma asla pişman olmadım."
+
+18
+00:00:59,110 --> 00:01:01,340
+"O zaman biz suç ortağıyız."
+
+19
+00:01:01,350 --> 00:01:05,090
+"Bir daha asla kaybetmeyeceğim."
+
+20
+00:01:05,090 --> 00:01:07,160
+"Kazanacağım."
+
+21
+00:01:07,170 --> 00:01:10,730
+"Öl de, gidip kardeşlerimden özür dile."
+
+22
+00:01:10,730 --> 00:01:13,240
+"Sen güçlüsün, diğerlerine yardım etmeye çalış."
+
+23
+00:01:13,240 --> 00:01:16,230
+"Hazır mısın, İtadori?"
+
+24
+00:01:16,230 --> 00:01:18,800
+"İnsanlar ölecek. Bu kaçınılmaz."
+
+25
+00:01:18,800 --> 00:01:21,480
+"Umarım en azından doğru bir şekilde ölebilirler."
+
+26
+00:01:21,480 --> 00:01:26,200
+"Bir lanet tarafından öldürüldüğünde,
+bunun için de dedeni mi suçlayacaksın?"
+
+27
+00:01:26,200 --> 00:01:30,500
+"Umarım öldüğümde başımda yasımı tutacak çok insan olur."
+
+28
+00:01:30,500 --> 00:01:33,800
+"Aldığım canlar arasında bazılarının
+ağlayabildiğini de fark ettim."
+
+29
+00:01:33,800 --> 00:01:37,450
+"O insanlar senin yüzünden öldü."
+
+30
+00:04:54,260 --> 00:04:56,070
+Malezya.
+
+31
+00:04:57,750 --> 00:05:01,070
+Aynen. Malezya.
+
+32
+00:05:01,790 --> 00:05:03,450
+Kuantan'a gitmeliyim.
+
+33
+00:05:04,070 --> 00:05:07,910
+Kimsenin olmadığı bir sahilde ev yapacağım.
+
+34
+00:05:07,920 --> 00:05:12,200
+Satın alıp hiç okumadığım
+kitaplar dağ gibi birikti.
+
+35
+00:05:12,200 --> 00:05:18,650
+Sanki kaybettiğim zamanı geri alırcasına,
+onları yavaş yavaş okumak istiyorum.
+
+36
+00:05:19,250 --> 00:05:24,640
+Hayır, şimdi Fushiguro'yu kurtarmalıyım.
+
+37
+00:05:25,350 --> 00:05:29,420
+Maki-san ve Naobito-san nerede?
+
+38
+00:05:29,420 --> 00:05:31,230
+Onlara ne oldu?
+
+39
+00:05:35,010 --> 00:05:38,860
+Yoruldum. Gerçekten tükendim.
+
+40
+00:05:39,650 --> 00:05:41,850
+Evet, yoruldum.
+
+41
+00:05:44,660 --> 00:05:47,950
+Elimden geleni yaptım.
+
+42
+00:08:10,190 --> 00:08:11,990
+İşte buradasın.
+
+43
+00:08:14,330 --> 00:08:17,890
+Her zamanki gibi.
+
+44
+00:08:26,680 --> 00:08:28,610
+İşte buradasın.
+
+45
+00:08:30,090 --> 00:08:33,230
+Her zamanki gibi.
+
+46
+00:08:33,230 --> 00:08:35,450
+Söyleyecek bir şeylerin var mı?
+
+47
+00:08:35,950 --> 00:08:39,290
+Ne de olsa benimle defalarca oynadın.
+
+48
+00:08:46,200 --> 00:08:48,220
+Haibara...
+
+49
+00:08:48,220 --> 00:08:52,250
+...sonunda ne yapmak istiyorum?
+
+50
+00:08:52,250 --> 00:08:55,900
+Bir keresinde kaçmıştım.
+
+51
+00:08:55,900 --> 00:08:59,730
+Ama başarı hissi gibi belirsiz
+bir sebeple geri döndüm.
+
+52
+00:09:07,880 --> 00:09:09,390
+Hayır.
+
+53
+00:09:10,400 --> 00:09:12,200
+Bu doğru değil.
+
+54
+00:09:18,370 --> 00:09:20,830
+Hayır, Haibara.
+
+55
+00:09:23,100 --> 00:09:25,010
+Böyle bir şey söyleyemem.
+
+56
+00:09:25,010 --> 00:09:28,130
+Bu onun için bir lanet olur.
+
+57
+00:09:32,780 --> 00:09:34,350
+Nanami...
+
+58
+00:09:46,600 --> 00:09:48,230
+Hayır.
+
+59
+00:09:52,330 --> 00:09:53,460
+Hayır...
+
+60
+00:10:01,510 --> 00:10:03,120
+İtadori.
+
+61
+00:10:19,840 --> 00:10:22,020
+Gerisini sana bırakıyorum.
+
+62
+00:10:51,870 --> 00:10:53,720
+Senin ben...
+
+63
+00:10:55,980 --> 00:11:00,290
+AMACIN NE LAN SENİN? MAHİTO!
+
+64
+00:11:00,290 --> 00:11:03,530
+SEN BAĞIRMADAN DA DUYABİLİYORUM SENİ!
+
+65
+00:11:03,530 --> 00:11:05,900
+İTADORİ YUJİ!
+
+66
+00:11:20,610 --> 00:11:22,500
+Kurtar beni.
+
+67
+00:11:31,680 --> 00:11:33,550
+Kurtar beni.
+
+68
+00:11:38,300 --> 00:11:39,500
+Ruh Çokluğu,
+
+69
+00:11:41,030 --> 00:11:42,560
+Vücut Püskürtme.
+
+70
+00:12:15,450 --> 00:12:17,830
+Eğer daha sıkı dursaydın...
+
+71
+00:12:17,830 --> 00:12:20,260
+...suratını paramparça ederdim.
+
+72
+00:12:23,880 --> 00:12:29,330
+Nasıl yaparsın? Hem de bu kadar sık...
+ve bu kadar çok insana!
+
+73
+00:12:29,330 --> 00:12:32,830
+Hayatları nasıl böyle
+oyuncak edersin?!
+
+74
+00:12:37,920 --> 00:12:42,580
+Sırf sen tatmin ol diye,
+acı çekiyormuş gibi mi yapayım?
+
+75
+00:12:42,580 --> 00:12:44,320
+Bir dahakine öyle yaparım.
+
+76
+00:12:45,520 --> 00:12:47,150
+Basit bir adam olduğun için...
+
+77
+00:12:47,150 --> 00:12:50,040
+...sana basit bir cevap vereceğim.
+
+78
+00:12:51,060 --> 00:12:52,880
+İtadori Yuji.
+
+79
+00:12:55,430 --> 00:12:58,090
+"Kurtar beni."
+
+80
+00:13:00,750 --> 00:13:02,800
+Sen bensin.
+
+81
+00:13:05,270 --> 00:13:07,440
+Her şeye bu kadar sinirlenme.
+
+82
+00:13:07,440 --> 00:13:09,600
+Bu sadece bir lanet'in
+saçmalıkları.
+
+83
+00:13:13,470 --> 00:13:14,800
+Ama...
+
+84
+00:13:15,830 --> 00:13:18,030
+bunu kabullenmediğin sürece...
+
+85
+00:13:21,440 --> 00:13:23,490
+...bana karşı kaybetmeye mahkûmsun.
+
+86
+00:13:24,150 --> 00:13:28,000
+Çok konuşuyorsun...
+
+87
+00:13:28,010 --> 00:13:29,540
+Bunlar son sözlerin mi?
+
+88
+00:13:30,530 --> 00:13:32,580
+Gerisini sana bırakıyorum.
+
+89
+00:13:33,780 --> 00:13:35,200
+Eğer Nanami olsaydı...
+
+90
+00:13:35,200 --> 00:13:38,260
+...öfkesine yenilip soğukkanlılığını kaybetmezdi.
+
+91
+00:13:39,360 --> 00:13:41,510
+Kanıtlamak istiyorum...
+
+92
+00:13:41,510 --> 00:13:42,510
+Sen bir...
+Ben bir...
+
+93
+00:13:46,310 --> 00:13:48,670
+Jujutsu Sahiri'yim.
+
+94
+00:13:46,310 --> 00:13:48,670
+Jujutsu Sahiri'sin.
+
+95
+00:15:44,640 --> 00:15:47,010
+Fena değil, böyle devam et.
+
+96
+00:15:49,860 --> 00:15:51,970
+İkinci raunt başlıyor.
+
+97
+00:18:12,560 --> 00:18:13,740
+Olamaz.
+
+98
+00:18:14,270 --> 00:18:17,330
+Eğer risk alıp batırırsam,
+ölmüş sayılırım.
+
+99
+00:18:17,340 --> 00:18:20,470
+Şimdilik, asıl olarak şekil
+değiştirmiş insanlarla saldıracağım.
+
+100
+00:18:20,470 --> 00:18:21,670
+Ne kadar korkunç.
+
+101
+00:18:22,220 --> 00:18:24,350
+Eskisinden daha fazla numarası var.
+
+102
+00:18:33,470 --> 00:18:34,540
+Velet.
+
+103
+00:18:34,540 --> 00:18:36,510
+Hey, çabuk buraya gel.
+
+104
+00:18:36,510 --> 00:18:39,330
+Orada tonlarca canavar var. Çok tehlikeli!
+
+105
+00:18:39,330 --> 00:18:41,270
+Nereye gitti bu...
+
+106
+00:18:41,270 --> 00:18:42,710
+yukarıda mı?
+
+107
+00:18:44,220 --> 00:18:45,380
+Özür dilerim.
+
+108
+00:18:45,730 --> 00:18:48,490
+Shibuya'da artık hiçbir yer güvenli değil.
+
+109
+00:18:48,500 --> 00:18:50,150
+Uzak durmalısınız.
+
+110
+00:18:51,880 --> 00:18:54,240
+Kahretsin, o...
+
+111
+00:19:03,250 --> 00:19:05,210
+Hey, sen.
+
+112
+00:19:07,390 --> 00:19:10,310
+Biraz hayal gücünden yoksun değil misin?
+
+113
+00:19:10,310 --> 00:19:11,310
+Dur.
+
+114
+00:19:11,310 --> 00:19:14,720
+Aptal mısın? O zaman durdur.
+
+115
+00:19:15,170 --> 00:19:18,900
+Bu yöntem İtadori'nin ruhuna karşı daha etkili.
+
+116
+00:19:18,900 --> 00:19:22,470
+Elime, bir koz daha geçecek...
+
+117
+00:19:22,480 --> 00:19:25,510
+...seni ezmeye yetecek bir koz.
+
+118
+00:19:25,510 --> 00:19:29,090
+- Ne?
+- B-Bekle.
+
+119
+00:19:29,090 --> 00:19:35,150
+Pekala, yut...
+
+120
+00:19:37,000 --> 00:19:38,380
+Yaşasın!
+
+121
+00:19:38,380 --> 00:19:40,370
+Stokta yeterince insan var artık.
+
+122
+00:19:40,370 --> 00:19:42,660
+Aşağıdaki insanlara gelince,
+onlarla ne isterseniz yapın.
+
+123
+00:19:43,120 --> 00:19:46,210
+O zaman "İtadori'yi Öldürme Şovu"na devam edelim.
+
+124
+00:19:47,740 --> 00:19:48,820
+Hayır!
+
+125
+00:19:48,820 --> 00:19:49,870
+Jogo.
+
+126
+00:19:50,800 --> 00:19:52,620
+O zaman gel de yakala beni.
+
+127
+00:19:55,480 --> 00:19:59,270
+Ben yer altına ineceğim, sen yukarıda kal.
+
+128
+00:19:59,280 --> 00:20:01,390
+Seni çağırmamı bekle.
+
+129
+00:20:01,390 --> 00:20:04,020
+Biliyorum zaten.
+
+130
+00:20:04,030 --> 00:20:05,290
+Doğru.
+
+131
+00:20:08,460 --> 00:20:09,810
+Görüşürüz.
+
+132
+00:20:15,960 --> 00:20:17,190
+Kaçtı.
+
+133
+00:20:21,860 --> 00:20:24,830
+Mahito!
+
+134
+00:20:26,360 --> 00:20:27,900
+Bunu gördün mü?
+
+135
+00:20:27,900 --> 00:20:29,640
+Gülünç, değil mi?
+
+136
+00:20:29,640 --> 00:20:32,840
+Az önce oradaydım.
+
+137
+00:20:33,390 --> 00:20:34,950
+Yamalı Surat...
+
+138
+00:20:34,950 --> 00:20:36,290
+Sen misin?
+
+139
+00:20:36,290 --> 00:20:39,930
+Bizim veletle uğraşan
+Özel Kademe lanetli ruh?
+
+140
+00:20:40,680 --> 00:20:42,400
+Ne kadar sinir bozucu.
+
+141
+00:20:42,410 --> 00:20:44,090
+Ünlü müyüm?
+
+142
+00:20:44,480 --> 00:20:47,850
+Aynen, kuyruğunu kıstırıp kaçmanla.
+
+143
+00:20:49,600 --> 00:20:51,260
+Fena değil.
+
+144
+00:20:51,260 --> 00:20:52,980
+Öldürmeye değersin.
+
+145
+00:20:53,530 --> 00:20:56,490
+Bugün pek bir şey gösteremedim zaten.
+
+146
+00:20:58,100 --> 00:21:02,350
+Hatırladığım kadarıyla tekniği ruhlarla ilgili.
+
+147
+00:21:02,350 --> 00:21:04,700
+Bana dokunmasına izin veremem.
+
+148
+00:21:05,960 --> 00:21:08,910
+En azından solucanın tekini arındırmalıyım.
+
+149
+00:21:09,670 --> 00:21:11,400
+O zamanki gibi...
+
+150
+00:21:11,400 --> 00:21:13,370
+hatırlamalıyım...
+
+151
+00:21:13,380 --> 00:21:15,420
+...lanetli enerjinin özünü.
+
+152
+00:21:17,600 --> 00:21:18,800
+Hedefi tutturamıyorsun.
+
+153
+00:21:28,410 --> 00:21:29,410
+Toka.
+
+154
+00:21:37,800 --> 00:21:38,800
+Etkileyici.
+
+155
+00:21:39,370 --> 00:21:42,320
+Ama bu bana karşı temelde işe yaramaz.
+
+156
+00:21:42,960 --> 00:21:47,240
+İtadori'yle yakın görünüyor.
+
+157
+00:21:48,010 --> 00:21:50,920
+Cesedini İtadori Yuji'ye götüreceğim...
+
+158
+00:21:50,920 --> 00:21:54,130
+...ve ruhunu paramparça edeceğim.
+
+159
+00:23:25,680 --> 00:23:27,300
+Şimdi kişilik testi zamanı!
+
+160
+00:23:27,300 --> 00:23:31,510
+En net kim aklınızda:
+Bir zamanlar sevdiğiniz mi, yoksa nefret ettiğiniz mi?
+
+161
+00:23:31,510 --> 00:23:33,270
+Sonuçlar başlıktan sonra açıklanacak!
+
+162
+00:23:33,270 --> 00:23:35,310
+Gelecek bölüm: Doğru ve Yanlış, 2. KISIM.
+
+163
+00:23:35,310 --> 00:23:39,690
+Geçmişe takılıp kalmak seni tam bir ezik yapar!
